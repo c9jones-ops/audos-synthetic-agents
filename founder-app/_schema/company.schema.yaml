@@ -1,0 +1,90 @@
+# Schema for <codename>/canon/company.yaml — the machine-readable spine.
+# Derived from what Kestrel actually needed; stretch-checked against a
+# 120-person venture-backed company (see notes marked [scale]).
+# Convention: REQUIRED fields must exist for every company; OPTIONAL blocks
+# exist when true of the company — never padded, absence is information.
+
+codename: string                      # REQUIRED — used everywhere except PROVENANCE.md
+as_of: YYYY-MM                        # REQUIRED — the T0 month; all point-in-time fields read as-of this
+
+entity:                               # REQUIRED
+  legal_form: string                  # e.g. "S-corp, single owner" | "Delaware C-corp"
+  founded: year                       # canon truth; public contradictions live in divergence-map
+  founder_owner: string               # fictional founder name(s); ownership stated
+  hq: string
+  locations: [ {name, kind, real_presence, notes} ]   # kind: leased studio|desk share|remote hub…
+                                      # real_presence: full|token|nominal — Kestrel's
+                                      # offices-vs-website gap needed this; scales fine
+
+team:                                 # REQUIRED
+  fte_total: int
+  regular_contractors: int            # 0 is a valid, meaningful value
+  composition: {role_bucket: int}     # buckets free-form but stable within a company;
+                                      # must sum to fte_total. [scale] at 120 people use
+                                      # functions (eng, sales, cs, g&a…) not individuals
+  founder_role_actual: text           # what the founder actually does with their week —
+                                      # every persona's distortions touch this
+
+financials:                           # REQUIRED — trailing twelve months from as_of
+  fee_revenue_ttm_usd: int            # net/fee revenue; pass-throughs excluded by convention
+  revenue_per_head_usd: int
+  gross_margin_delivery_pct: number   # services: delivery margin. [scale] SaaS: gross margin;
+                                      # name the convention in a comment either way
+  ebitda_ttm_usd: int
+  ebitda_margin_ttm_pct: number
+  ebitda_margin_by_cy: {year: pct}    # the trajectory, not just the point
+  payroll_loaded_pct_revenue: number
+  overhead_nonlabor_pct_revenue: number
+  cash_on_hand_usd: int
+  debt: string|none
+  owner_comp: {salary_usd, draws_monthly_usd, note}   # OPTIONAL at [scale] (C-corp: comp in payroll)
+  # OPTIONAL [scale] — required when capital.model is venture:
+  # burn_monthly_usd, runway_months, arr_usd, net_revenue_retention_pct
+
+capital:                              # REQUIRED
+  model: text                         # "founder-funded, bootstrapped" | "VC, Series C" …
+  distributions: text                 # or dividend/none policy
+  governance: text                    # "sole owner-director; no board" | board composition
+  # OPTIONAL [scale] — rounds: [ {stage, date, amount_usd, lead, post_money_usd} ]
+  # and board: [ {name, role, seat} ] — all names fictional except nothing
+
+product_mix:                          # REQUIRED — one entry per real line, TTM
+  - {line, model, revenue_ttm_usd, share_pct, delivery_margin_pct, note?}
+  #   margins computed by the stated method (see financials.spec.md §5);
+  #   if a line's margin is an artifact (Kestrel's CMO line), SAY SO in note
+  recurring_share_pct: number
+
+customers:                            # REQUIRED
+  active_named: int                   # billing in the as_of month; note window count if different
+  top_client: {codename, share_revenue_ttm_pct, share_delivery_margin_pct?, since, scope}
+  top3_share_pct: number              # must reconcile to customers.csv — verified, not estimated
+  concentration_trend: enum-ish text  # e.g. stepped-up-and-held | rising | falling — data-backed
+  logo_wall_note: text                # public-roster vs paying-book reconciliation
+
+channels:                             # REQUIRED — % of signed new business TTM, ties to channels.csv
+  {channel_pct...}                    # channels free-form; must sum ~100
+  rainmaker: text                     # who actually sells; scales to "sales org of N, founder still closes"
+
+capabilities:                         # REQUIRED
+  strong: [strings]
+  stretched: [strings]
+  absent: [strings]                   # absences are test-relevant (what they can't do)
+
+growth_posture:                       # REQUIRED
+  stated_by_founder: text             # verbatim-ish — this is a distortion surface
+  actual: text                        # data-backed one-liner
+  hiring: text
+
+pricing:                              # REQUIRED for services; [scale] SaaS: plans/ACV instead
+  public_rate_card: text|none
+  blended_realized_rate_usd_hr: number   # data-derived, method noted
+  realized_rate_range: {segment: range}
+  discipline: text                    # how pricing decisions actually get made
+
+instruments:                          # REQUIRED — measurement infrastructure, honestly stated.
+  # This block is where "which numbers can the founder actually know" lives.
+  # Kestrel needed: accounting, time_tracking, pipeline, per_client_profitability,
+  # per_line_profitability, and the company's unreliable-number pointer.
+  # [scale] add: metrics_stack, board_reporting, data_team. Every company MUST
+  # declare at least: accounting, pipeline, the never-computed views, and a
+  # pointer to gaps/unreliable-number.md.

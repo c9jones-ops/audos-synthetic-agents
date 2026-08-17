@@ -1,0 +1,931 @@
+month,person_id,name,title,primary_line,fte,base_salary_annual,loaded_monthly_cost
+2024-08,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,135000,13050
+2024-08,O1,Priya Raman,Director of Operations & Finance,ops,1.0,110000,10633
+2024-08,X1,Jamie Fentress,Studio Coordinator,ops,1.0,58000,5607
+2024-08,C1,Noah Bergstrom,Creative Director,brand,1.0,129000,12470
+2024-08,D1,Elise Tran,Senior Designer,brand,1.0,98000,9473
+2024-08,D2,Marcus Feld,Senior Designer,brand,1.0,95000,9183
+2024-08,D3,Hannah Okafor,Designer,brand,1.0,85000,8217
+2024-08,D4,Tyler Grieve,Designer,brand,1.0,82000,7927
+2024-08,D5,Sofia Marchetti,Designer,digital,1.0,80000,7733
+2024-08,D6,Ben Auerbach,Junior Designer,brand,1.0,66000,6380
+2024-08,D7,Devon Lund,Junior Designer,digital,1.0,63000,6090
+2024-08,E1,Sam Kessler,Technical Lead,digital,1.0,120000,11600
+2024-08,E2,Aiko Tanabe,Senior Developer,digital,1.0,105000,10150
+2024-08,E3,Rob Delgado,Developer,digital,1.0,94000,9087
+2024-08,E4,Mira Shah,Developer,digital,1.0,91000,8797
+2024-08,E5,Felix Nguyen,Junior Developer,digital,1.0,75000,7250
+2024-08,E6,Jordan Pike,Design Engineer,digital,1.0,88000,8507
+2024-08,P1,Dana Whitfield,Content Studio Lead,content,1.0,94000,9087
+2024-08,P2,Leo Marsh,Videographer,content,1.0,77000,7443
+2024-08,S1,Owen Marek,Strategy Director,strategy,1.0,126000,12180
+2024-08,S2,Lena Fischer,Senior Strategist,strategy,1.0,112000,10827
+2024-08,A1,Rachel Osei,Account Director,account,1.0,110000,10633
+2024-08,A2,Tom Brandt,Account Manager,account,1.0,82000,7927
+2024-08,A3,Maya Lindqvist,Account Manager,account,1.0,79000,7637
+2024-08,M1,Erin Sato,Senior Project Manager,pm,1.0,95000,9183
+2024-09,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,135000,13050
+2024-09,O1,Priya Raman,Director of Operations & Finance,ops,1.0,110000,10633
+2024-09,X1,Jamie Fentress,Studio Coordinator,ops,1.0,58000,5607
+2024-09,C1,Noah Bergstrom,Creative Director,brand,1.0,129000,12470
+2024-09,D1,Elise Tran,Senior Designer,brand,1.0,98000,9473
+2024-09,D2,Marcus Feld,Senior Designer,brand,1.0,95000,9183
+2024-09,D3,Hannah Okafor,Designer,brand,1.0,85000,8217
+2024-09,D4,Tyler Grieve,Designer,brand,1.0,82000,7927
+2024-09,D5,Sofia Marchetti,Designer,digital,1.0,80000,7733
+2024-09,D6,Ben Auerbach,Junior Designer,brand,1.0,66000,6380
+2024-09,D7,Devon Lund,Junior Designer,digital,1.0,63000,6090
+2024-09,E1,Sam Kessler,Technical Lead,digital,1.0,120000,11600
+2024-09,E2,Aiko Tanabe,Senior Developer,digital,1.0,105000,10150
+2024-09,E3,Rob Delgado,Developer,digital,1.0,94000,9087
+2024-09,E4,Mira Shah,Developer,digital,1.0,91000,8797
+2024-09,E5,Felix Nguyen,Junior Developer,digital,1.0,75000,7250
+2024-09,E6,Jordan Pike,Design Engineer,digital,1.0,88000,8507
+2024-09,P1,Dana Whitfield,Content Studio Lead,content,1.0,94000,9087
+2024-09,P2,Leo Marsh,Videographer,content,1.0,77000,7443
+2024-09,P3,Quinn Adebayo,Producer,content,1.0,69000,6670
+2024-09,S1,Owen Marek,Strategy Director,strategy,1.0,126000,12180
+2024-09,S2,Lena Fischer,Senior Strategist,strategy,1.0,112000,10827
+2024-09,A1,Rachel Osei,Account Director,account,1.0,110000,10633
+2024-09,A2,Tom Brandt,Account Manager,account,1.0,82000,7927
+2024-09,A3,Maya Lindqvist,Account Manager,account,1.0,79000,7637
+2024-09,M1,Erin Sato,Senior Project Manager,pm,1.0,95000,9183
+2024-10,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,135000,13050
+2024-10,O1,Priya Raman,Director of Operations & Finance,ops,1.0,110000,10633
+2024-10,X1,Jamie Fentress,Studio Coordinator,ops,1.0,58000,5607
+2024-10,C1,Noah Bergstrom,Creative Director,brand,1.0,129000,12470
+2024-10,D1,Elise Tran,Senior Designer,brand,1.0,98000,9473
+2024-10,D2,Marcus Feld,Senior Designer,brand,1.0,95000,9183
+2024-10,D3,Hannah Okafor,Designer,brand,1.0,85000,8217
+2024-10,D4,Tyler Grieve,Designer,brand,1.0,82000,7927
+2024-10,D5,Sofia Marchetti,Designer,digital,1.0,80000,7733
+2024-10,D6,Ben Auerbach,Junior Designer,brand,1.0,66000,6380
+2024-10,D7,Devon Lund,Junior Designer,digital,1.0,63000,6090
+2024-10,E1,Sam Kessler,Technical Lead,digital,1.0,120000,11600
+2024-10,E2,Aiko Tanabe,Senior Developer,digital,1.0,105000,10150
+2024-10,E3,Rob Delgado,Developer,digital,1.0,94000,9087
+2024-10,E4,Mira Shah,Developer,digital,1.0,91000,8797
+2024-10,E5,Felix Nguyen,Junior Developer,digital,1.0,75000,7250
+2024-10,E6,Jordan Pike,Design Engineer,digital,1.0,88000,8507
+2024-10,P1,Dana Whitfield,Content Studio Lead,content,1.0,94000,9087
+2024-10,P2,Leo Marsh,Videographer,content,1.0,77000,7443
+2024-10,P3,Quinn Adebayo,Producer,content,1.0,69000,6670
+2024-10,P4,Tess Rowan,Content Strategist,content,1.0,72000,6960
+2024-10,S1,Owen Marek,Strategy Director,strategy,1.0,126000,12180
+2024-10,S2,Lena Fischer,Senior Strategist,strategy,1.0,112000,10827
+2024-10,A1,Rachel Osei,Account Director,account,1.0,110000,10633
+2024-10,A2,Tom Brandt,Account Manager,account,1.0,82000,7927
+2024-10,A3,Maya Lindqvist,Account Manager,account,1.0,79000,7637
+2024-10,M1,Erin Sato,Senior Project Manager,pm,1.0,95000,9183
+2024-11,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,135000,13050
+2024-11,O1,Priya Raman,Director of Operations & Finance,ops,1.0,110000,10633
+2024-11,X1,Jamie Fentress,Studio Coordinator,ops,1.0,58000,5607
+2024-11,C1,Noah Bergstrom,Creative Director,brand,1.0,129000,12470
+2024-11,D1,Elise Tran,Senior Designer,brand,1.0,98000,9473
+2024-11,D2,Marcus Feld,Senior Designer,brand,1.0,95000,9183
+2024-11,D3,Hannah Okafor,Designer,brand,1.0,85000,8217
+2024-11,D4,Tyler Grieve,Designer,brand,1.0,82000,7927
+2024-11,D5,Sofia Marchetti,Designer,digital,1.0,80000,7733
+2024-11,D6,Ben Auerbach,Junior Designer,brand,1.0,66000,6380
+2024-11,D7,Devon Lund,Junior Designer,digital,1.0,63000,6090
+2024-11,E1,Sam Kessler,Technical Lead,digital,1.0,120000,11600
+2024-11,E2,Aiko Tanabe,Senior Developer,digital,1.0,105000,10150
+2024-11,E3,Rob Delgado,Developer,digital,1.0,94000,9087
+2024-11,E4,Mira Shah,Developer,digital,1.0,91000,8797
+2024-11,E5,Felix Nguyen,Junior Developer,digital,1.0,75000,7250
+2024-11,E6,Jordan Pike,Design Engineer,digital,1.0,88000,8507
+2024-11,P1,Dana Whitfield,Content Studio Lead,content,1.0,94000,9087
+2024-11,P2,Leo Marsh,Videographer,content,1.0,77000,7443
+2024-11,P3,Quinn Adebayo,Producer,content,1.0,69000,6670
+2024-11,P4,Tess Rowan,Content Strategist,content,1.0,72000,6960
+2024-11,P5,Milo Vance,Editor,content,1.0,67000,6477
+2024-11,S1,Owen Marek,Strategy Director,strategy,1.0,126000,12180
+2024-11,S2,Lena Fischer,Senior Strategist,strategy,1.0,112000,10827
+2024-11,A1,Rachel Osei,Account Director,account,1.0,110000,10633
+2024-11,A2,Tom Brandt,Account Manager,account,1.0,82000,7927
+2024-11,A3,Maya Lindqvist,Account Manager,account,1.0,79000,7637
+2024-11,M1,Erin Sato,Senior Project Manager,pm,1.0,95000,9183
+2024-12,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,135000,13050
+2024-12,O1,Priya Raman,Director of Operations & Finance,ops,1.0,110000,10633
+2024-12,X1,Jamie Fentress,Studio Coordinator,ops,1.0,58000,5607
+2024-12,C1,Noah Bergstrom,Creative Director,brand,1.0,129000,12470
+2024-12,D1,Elise Tran,Senior Designer,brand,1.0,98000,9473
+2024-12,D2,Marcus Feld,Senior Designer,brand,1.0,95000,9183
+2024-12,D3,Hannah Okafor,Designer,brand,1.0,85000,8217
+2024-12,D4,Tyler Grieve,Designer,brand,1.0,82000,7927
+2024-12,D5,Sofia Marchetti,Designer,digital,1.0,80000,7733
+2024-12,D6,Ben Auerbach,Junior Designer,brand,1.0,66000,6380
+2024-12,D7,Devon Lund,Junior Designer,digital,1.0,63000,6090
+2024-12,E1,Sam Kessler,Technical Lead,digital,1.0,120000,11600
+2024-12,E2,Aiko Tanabe,Senior Developer,digital,1.0,105000,10150
+2024-12,E3,Rob Delgado,Developer,digital,1.0,94000,9087
+2024-12,E4,Mira Shah,Developer,digital,1.0,91000,8797
+2024-12,E5,Felix Nguyen,Junior Developer,digital,1.0,75000,7250
+2024-12,E6,Jordan Pike,Design Engineer,digital,1.0,88000,8507
+2024-12,P1,Dana Whitfield,Content Studio Lead,content,1.0,94000,9087
+2024-12,P2,Leo Marsh,Videographer,content,1.0,77000,7443
+2024-12,P3,Quinn Adebayo,Producer,content,1.0,69000,6670
+2024-12,P4,Tess Rowan,Content Strategist,content,1.0,72000,6960
+2024-12,P5,Milo Vance,Editor,content,1.0,67000,6477
+2024-12,P6,Ana Petrova,Motion Designer,content,1.0,80000,7733
+2024-12,S1,Owen Marek,Strategy Director,strategy,1.0,126000,12180
+2024-12,S2,Lena Fischer,Senior Strategist,strategy,1.0,112000,10827
+2024-12,A1,Rachel Osei,Account Director,account,1.0,110000,10633
+2024-12,A2,Tom Brandt,Account Manager,account,1.0,82000,7927
+2024-12,A3,Maya Lindqvist,Account Manager,account,1.0,79000,7637
+2024-12,M1,Erin Sato,Senior Project Manager,pm,1.0,95000,9183
+2025-01,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-01,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-01,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-01,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-01,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-01,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-01,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-01,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-01,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-01,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-01,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-01,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-01,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-01,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-01,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-01,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-01,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-01,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-01,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-01,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-01,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-01,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-01,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-01,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-01,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-01,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-01,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-01,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-01,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-02,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-02,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-02,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-02,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-02,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-02,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-02,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-02,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-02,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-02,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-02,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-02,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-02,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-02,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-02,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-02,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-02,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-02,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-02,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-02,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-02,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-02,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-02,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-02,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-02,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-02,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-02,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-02,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-02,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-03,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-03,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-03,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-03,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-03,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-03,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-03,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-03,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-03,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-03,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-03,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-03,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-03,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-03,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-03,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-03,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-03,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-03,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-03,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-03,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-03,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-03,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-03,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-03,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-03,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-03,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-03,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-03,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-03,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-04,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-04,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-04,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-04,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-04,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-04,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-04,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-04,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-04,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-04,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-04,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-04,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-04,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-04,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-04,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-04,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-04,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-04,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-04,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-04,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-04,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-04,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-04,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-04,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-04,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-04,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-04,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-04,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-04,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-05,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-05,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-05,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-05,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-05,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-05,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-05,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-05,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-05,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-05,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-05,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-05,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-05,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-05,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-05,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-05,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-05,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-05,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-05,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-05,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-05,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-05,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-05,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-05,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-05,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-05,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-05,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-05,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-05,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-06,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-06,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-06,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-06,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-06,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-06,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-06,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-06,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-06,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-06,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-06,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-06,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-06,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-06,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-06,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-06,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-06,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-06,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-06,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-06,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-06,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-06,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-06,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-06,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-06,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-06,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-06,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-06,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-06,A4,Chris Doyle,Account Manager,account,1.0,85000,8217
+2025-06,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-07,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-07,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-07,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-07,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-07,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-07,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-07,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-07,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-07,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-07,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-07,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-07,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-07,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-07,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-07,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-07,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-07,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-07,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-07,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-07,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-07,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-07,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-07,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-07,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-07,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-07,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-07,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-07,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-07,A4,Chris Doyle,Account Manager,account,1.0,85000,8217
+2025-07,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-07,M2,Paul Okonkwo,Project Manager,pm,1.0,91000,8797
+2025-08,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-08,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-08,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-08,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-08,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-08,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-08,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-08,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-08,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-08,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-08,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-08,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-08,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-08,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-08,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-08,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-08,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-08,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-08,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-08,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-08,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-08,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-08,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-08,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-08,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-08,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-08,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-08,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-08,A4,Chris Doyle,Account Manager,account,1.0,85000,8217
+2025-08,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-08,M2,Paul Okonkwo,Project Manager,pm,1.0,91000,8797
+2025-09,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-09,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-09,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-09,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-09,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-09,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-09,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-09,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-09,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-09,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-09,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-09,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-09,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-09,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-09,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-09,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-09,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-09,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-09,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-09,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-09,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-09,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-09,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-09,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-09,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-09,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-09,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-09,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-09,A4,Chris Doyle,Account Manager,account,1.0,85000,8217
+2025-09,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-09,M2,Paul Okonkwo,Project Manager,pm,1.0,91000,8797
+2025-10,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-10,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-10,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-10,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-10,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-10,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-10,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-10,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-10,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-10,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-10,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-10,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-10,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-10,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-10,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-10,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-10,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-10,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-10,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-10,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-10,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-10,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-10,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-10,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-10,S2,Lena Fischer,Senior Strategist,strategy,1.0,116000,11213
+2025-10,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-10,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-10,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-10,A4,Chris Doyle,Account Manager,account,1.0,85000,8217
+2025-10,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-10,M2,Paul Okonkwo,Project Manager,pm,1.0,91000,8797
+2025-11,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-11,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-11,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-11,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-11,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-11,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-11,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-11,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-11,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-11,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-11,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-11,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-11,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-11,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-11,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-11,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-11,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-11,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-11,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-11,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-11,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-11,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-11,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-11,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-11,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-11,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-11,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-11,A4,Chris Doyle,Account Manager,account,1.0,85000,8217
+2025-11,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-11,M2,Paul Okonkwo,Project Manager,pm,1.0,91000,8797
+2025-12,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,139500,13485
+2025-12,O1,Priya Raman,Director of Operations & Finance,ops,1.0,114000,11020
+2025-12,X1,Jamie Fentress,Studio Coordinator,ops,1.0,60000,5800
+2025-12,C1,Noah Bergstrom,Creative Director,brand,1.0,133500,12905
+2025-12,D1,Elise Tran,Senior Designer,brand,1.0,101500,9812
+2025-12,D2,Marcus Feld,Senior Designer,brand,1.0,98500,9522
+2025-12,D3,Hannah Okafor,Designer,brand,1.0,88000,8507
+2025-12,D4,Tyler Grieve,Designer,brand,1.0,85000,8217
+2025-12,D5,Sofia Marchetti,Designer,digital,1.0,83000,8023
+2025-12,D6,Ben Auerbach,Junior Designer,brand,1.0,68500,6622
+2025-12,D7,Devon Lund,Junior Designer,digital,1.0,65000,6283
+2025-12,E1,Sam Kessler,Technical Lead,digital,1.0,124000,11987
+2025-12,E2,Aiko Tanabe,Senior Developer,digital,1.0,108500,10488
+2025-12,E3,Rob Delgado,Developer,digital,1.0,97500,9425
+2025-12,E4,Mira Shah,Developer,digital,1.0,94000,9087
+2025-12,E5,Felix Nguyen,Junior Developer,digital,1.0,77500,7492
+2025-12,E6,Jordan Pike,Design Engineer,digital,1.0,91000,8797
+2025-12,P1,Dana Whitfield,Content Studio Lead,content,1.0,97500,9425
+2025-12,P2,Leo Marsh,Videographer,content,1.0,79500,7685
+2025-12,P3,Quinn Adebayo,Producer,content,1.0,71500,6912
+2025-12,P4,Tess Rowan,Content Strategist,content,1.0,74500,7202
+2025-12,P5,Milo Vance,Editor,content,1.0,69500,6718
+2025-12,P6,Ana Petrova,Motion Designer,content,1.0,83000,8023
+2025-12,S1,Owen Marek,Strategy Director,strategy,1.0,130500,12615
+2025-12,A1,Rachel Osei,Account Director,account,1.0,114000,11020
+2025-12,A2,Tom Brandt,Account Manager,account,1.0,85000,8217
+2025-12,A3,Maya Lindqvist,Account Manager,account,1.0,82000,7927
+2025-12,A4,Chris Doyle,Account Manager,account,1.0,85000,8217
+2025-12,M1,Erin Sato,Senior Project Manager,pm,1.0,98500,9522
+2025-12,M2,Paul Okonkwo,Project Manager,pm,1.0,91000,8797
+2026-01,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-01,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-01,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-01,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-01,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-01,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-01,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-01,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-01,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-01,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-01,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-01,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-01,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-01,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-01,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-01,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-01,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-01,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-01,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-01,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-01,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-01,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-01,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-01,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-01,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-01,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-01,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-01,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-01,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-01,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-02,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-02,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-02,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-02,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-02,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-02,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-02,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-02,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-02,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-02,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-02,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-02,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-02,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-02,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-02,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-02,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-02,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-02,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-02,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-02,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-02,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-02,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-02,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-02,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-02,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-02,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-02,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-02,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-02,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-02,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-03,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-03,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-03,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-03,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-03,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-03,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-03,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-03,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-03,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-03,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-03,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-03,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-03,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-03,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-03,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-03,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-03,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-03,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-03,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-03,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-03,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-03,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-03,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-03,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-03,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-03,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-03,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-03,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-03,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-03,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-03,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-04,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-04,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-04,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-04,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-04,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-04,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-04,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-04,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-04,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-04,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-04,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-04,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-04,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-04,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-04,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-04,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-04,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-04,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-04,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-04,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-04,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-04,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-04,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-04,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-04,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-04,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-04,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-04,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-04,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-04,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-04,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-05,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-05,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-05,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-05,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-05,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-05,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-05,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-05,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-05,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-05,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-05,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-05,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-05,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-05,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-05,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-05,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-05,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-05,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-05,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-05,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-05,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-05,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-05,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-05,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-05,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-05,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-05,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-05,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-05,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-05,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-05,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-06,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-06,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-06,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-06,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-06,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-06,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-06,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-06,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-06,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-06,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-06,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-06,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-06,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-06,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-06,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-06,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-06,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-06,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-06,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-06,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-06,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-06,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-06,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-06,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-06,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-06,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-06,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-06,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-06,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-06,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-06,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-07,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-07,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-07,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-07,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-07,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-07,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-07,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-07,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-07,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-07,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-07,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-07,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-07,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-07,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-07,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-07,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-07,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-07,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-07,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-07,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-07,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-07,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-07,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-07,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-07,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-07,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-07,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-07,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-07,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-07,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-07,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-08,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-08,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-08,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-08,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-08,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-08,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-08,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-08,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-08,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-08,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-08,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-08,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-08,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-08,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-08,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-08,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-08,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-08,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-08,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-08,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-08,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-08,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-08,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-08,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-08,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-08,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-08,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-08,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-08,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-08,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-08,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-09,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-09,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-09,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-09,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-09,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-09,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-09,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-09,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-09,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-09,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-09,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-09,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-09,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-09,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-09,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-09,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-09,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-09,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-09,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-09,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-09,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-09,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-09,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-09,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-09,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-09,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-09,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-09,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-09,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-09,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-09,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-10,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-10,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-10,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-10,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-10,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-10,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-10,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-10,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-10,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-10,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-10,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-10,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-10,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-10,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-10,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-10,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-10,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-10,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-10,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-10,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-10,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-10,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-10,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-10,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-10,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-10,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-10,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-10,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-10,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-10,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-10,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-11,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-11,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-11,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-11,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-11,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-11,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-11,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-11,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-11,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-11,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-11,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-11,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-11,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-11,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-11,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-11,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-11,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-11,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-11,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-11,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-11,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-11,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-11,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-11,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-11,P7,Kai Emerson,Content Producer,content,1.0,75000,7250
+2026-11,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-11,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-11,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-11,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-11,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-11,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-11,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2026-12,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,144500,13968
+2026-12,O1,Priya Raman,Director of Operations & Finance,ops,1.0,118000,11407
+2026-12,X1,Jamie Fentress,Studio Coordinator,ops,1.0,62000,5993
+2026-12,C1,Noah Bergstrom,Creative Director,brand,1.0,138000,13340
+2026-12,D1,Elise Tran,Senior Designer,brand,1.0,105000,10150
+2026-12,D2,Marcus Feld,Senior Designer,brand,1.0,102000,9860
+2026-12,D3,Hannah Okafor,Designer,brand,1.0,91000,8797
+2026-12,D4,Tyler Grieve,Designer,brand,1.0,88000,8507
+2026-12,D5,Sofia Marchetti,Designer,digital,1.0,86000,8313
+2026-12,D6,Ben Auerbach,Junior Designer,brand,1.0,71000,6863
+2026-12,D7,Devon Lund,Junior Designer,digital,1.0,67500,6525
+2026-12,D8,Ingrid Halvorsen,Designer,brand,1.0,86000,8313
+2026-12,E1,Sam Kessler,Technical Lead,digital,1.0,128500,12422
+2026-12,E2,Aiko Tanabe,Senior Developer,digital,1.0,112500,10875
+2026-12,E3,Rob Delgado,Developer,digital,1.0,101000,9763
+2026-12,E4,Mira Shah,Developer,digital,1.0,97500,9425
+2026-12,E5,Felix Nguyen,Junior Developer,digital,1.0,80000,7733
+2026-12,E6,Jordan Pike,Design Engineer,digital,1.0,94000,9087
+2026-12,P1,Dana Whitfield,Content Studio Lead,content,1.0,101000,9763
+2026-12,P2,Leo Marsh,Videographer,content,1.0,82500,7975
+2026-12,P3,Quinn Adebayo,Producer,content,1.0,74000,7153
+2026-12,P4,Tess Rowan,Content Strategist,content,1.0,77000,7443
+2026-12,P5,Milo Vance,Editor,content,1.0,72000,6960
+2026-12,P6,Ana Petrova,Motion Designer,content,1.0,86000,8313
+2026-12,P7,Kai Emerson,Content Producer,content,1.0,75000,7250
+2026-12,S1,Owen Marek,Strategy Director,strategy,1.0,135000,13050
+2026-12,A1,Rachel Osei,Account Director,account,1.0,118000,11407
+2026-12,A2,Tom Brandt,Account Manager,account,1.0,88000,8507
+2026-12,A3,Maya Lindqvist,Account Manager,account,1.0,85000,8217
+2026-12,A4,Chris Doyle,Account Manager,account,1.0,88000,8507
+2026-12,M1,Erin Sato,Senior Project Manager,pm,1.0,102000,9860
+2026-12,M2,Paul Okonkwo,Project Manager,pm,1.0,94000,9087
+2027-01,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,149000,14403
+2027-01,O1,Priya Raman,Director of Operations & Finance,ops,1.0,121500,11745
+2027-01,X1,Jamie Fentress,Studio Coordinator,ops,1.0,64000,6187
+2027-01,C1,Noah Bergstrom,Creative Director,brand,1.0,142000,13727
+2027-01,D1,Elise Tran,Senior Designer,brand,1.0,108000,10440
+2027-01,D2,Marcus Feld,Senior Designer,brand,1.0,105000,10150
+2027-01,D3,Hannah Okafor,Designer,brand,1.0,93500,9038
+2027-01,D4,Tyler Grieve,Designer,brand,1.0,90500,8748
+2027-01,D5,Sofia Marchetti,Designer,digital,1.0,88500,8555
+2027-01,D6,Ben Auerbach,Junior Designer,brand,1.0,73000,7057
+2027-01,D7,Devon Lund,Junior Designer,digital,1.0,69500,6718
+2027-01,D8,Ingrid Halvorsen,Designer,brand,1.0,88500,8555
+2027-01,E1,Sam Kessler,Technical Lead,digital,1.0,132500,12808
+2027-01,E2,Aiko Tanabe,Senior Developer,digital,1.0,116000,11213
+2027-01,E3,Rob Delgado,Developer,digital,1.0,104000,10053
+2027-01,E4,Mira Shah,Developer,digital,1.0,100500,9715
+2027-01,E5,Felix Nguyen,Junior Developer,digital,1.0,82500,7975
+2027-01,E6,Jordan Pike,Design Engineer,digital,1.0,97000,9377
+2027-01,P1,Dana Whitfield,Content Studio Lead,content,1.0,104000,10053
+2027-01,P2,Leo Marsh,Videographer,content,1.0,85000,8217
+2027-01,P3,Quinn Adebayo,Producer,content,1.0,76000,7347
+2027-01,P4,Tess Rowan,Content Strategist,content,1.0,79500,7685
+2027-01,P5,Milo Vance,Editor,content,1.0,74000,7153
+2027-01,P6,Ana Petrova,Motion Designer,content,1.0,88500,8555
+2027-01,P7,Kai Emerson,Content Producer,content,1.0,77000,7443
+2027-01,S1,Owen Marek,Strategy Director,strategy,1.0,139000,13437
+2027-01,A1,Rachel Osei,Account Director,account,1.0,121500,11745
+2027-01,A2,Tom Brandt,Account Manager,account,1.0,90500,8748
+2027-01,A3,Maya Lindqvist,Account Manager,account,1.0,87500,8458
+2027-01,A4,Chris Doyle,Account Manager,account,1.0,90500,8748
+2027-01,M1,Erin Sato,Senior Project Manager,pm,1.0,105000,10150
+2027-01,M2,Paul Okonkwo,Project Manager,pm,1.0,97000,9377
+2027-02,F1,Matt Watson,Founder / CEO / Exec Creative Director,leadership,1.0,149000,14403
+2027-02,O1,Priya Raman,Director of Operations & Finance,ops,1.0,121500,11745
+2027-02,X1,Jamie Fentress,Studio Coordinator,ops,1.0,64000,6187
+2027-02,C1,Noah Bergstrom,Creative Director,brand,1.0,142000,13727
+2027-02,D1,Elise Tran,Senior Designer,brand,1.0,108000,10440
+2027-02,D2,Marcus Feld,Senior Designer,brand,1.0,105000,10150
+2027-02,D3,Hannah Okafor,Designer,brand,1.0,93500,9038
+2027-02,D4,Tyler Grieve,Designer,brand,1.0,90500,8748
+2027-02,D5,Sofia Marchetti,Designer,digital,1.0,88500,8555
+2027-02,D6,Ben Auerbach,Junior Designer,brand,1.0,73000,7057
+2027-02,D7,Devon Lund,Junior Designer,digital,1.0,69500,6718
+2027-02,D8,Ingrid Halvorsen,Designer,brand,1.0,88500,8555
+2027-02,E1,Sam Kessler,Technical Lead,digital,1.0,132500,12808
+2027-02,E2,Aiko Tanabe,Senior Developer,digital,1.0,116000,11213
+2027-02,E3,Rob Delgado,Developer,digital,1.0,104000,10053
+2027-02,E4,Mira Shah,Developer,digital,1.0,100500,9715
+2027-02,E5,Felix Nguyen,Junior Developer,digital,1.0,82500,7975
+2027-02,E6,Jordan Pike,Design Engineer,digital,1.0,97000,9377
+2027-02,P1,Dana Whitfield,Content Studio Lead,content,1.0,104000,10053
+2027-02,P2,Leo Marsh,Videographer,content,1.0,85000,8217
+2027-02,P3,Quinn Adebayo,Producer,content,1.0,76000,7347
+2027-02,P4,Tess Rowan,Content Strategist,content,1.0,79500,7685
+2027-02,P5,Milo Vance,Editor,content,1.0,74000,7153
+2027-02,P6,Ana Petrova,Motion Designer,content,1.0,88500,8555
+2027-02,P7,Kai Emerson,Content Producer,content,1.0,77000,7443
+2027-02,S1,Owen Marek,Strategy Director,strategy,1.0,139000,13437
+2027-02,A1,Rachel Osei,Account Director,account,1.0,121500,11745
+2027-02,A2,Tom Brandt,Account Manager,account,1.0,90500,8748
+2027-02,A3,Maya Lindqvist,Account Manager,account,1.0,87500,8458
+2027-02,A4,Chris Doyle,Account Manager,account,1.0,90500,8748
+2027-02,M1,Erin Sato,Senior Project Manager,pm,1.0,105000,10150
+2027-02,M2,Paul Okonkwo,Project Manager,pm,1.0,97000,9377

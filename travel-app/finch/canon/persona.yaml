@@ -1,0 +1,95 @@
+# finch — canon spine. Values here are TRUE. What Devin SAYS lives in gaps/ and
+# persona/beliefs.md. Schema: ../../_schema/persona.schema.yaml.
+
+codename: finch
+as_of: 2026-08-17
+distortion_class: Aggregator
+
+identity:
+  name: "Devin Whitlock"
+  age: 29
+  pronouns: "he/him"
+  home: {city: "Chicago", region: "Illinois", country: "United States"}
+  origin: "Grand Rapids, Michigan (moved to Chicago in 2019 for a job; the taste for 'a scene' is adopted, adult, and mostly his alone — see persona/bio.md)"
+  occupation: "Account manager at a mid-size ad-tech company in the West Loop; hybrid. Consequence: professionally fluent at turning five opinions into one confident sentence, and at presenting his own preference as 'what the client wants'."
+  household: "Lives alone in a one-bed in Logan Square; a roommate until last year."
+  languages: ["English"]
+
+cities:
+  home: "Chicago"
+  knows_well: ["Chicago"]
+  visited_once: ["San Francisco (2022, work trip, four nights, alone)"]
+  visited_twice: ["Los Angeles (2019 with a cousin, three nights, stayed in Koreatown; 2023 with a girlfriend, four nights, stayed in Silver Lake) — knows Silver Lake / Echo Park / Koreatown a bit"]
+  never_been: ["London"]
+
+party:
+  size: 5
+  members:
+    - {name: "Devin Whitlock", relation: "self — the organiser", age: 29, veto: none, present_in_T1: true}
+    - {name: "Danny Ferro", relation: "college friend; the one getting married (2026-10-17) — the weekend is for him", age: 30, veto: hard, present_in_T1: true}
+    - {name: "Nate Sobczak", relation: "college friend; between jobs since June", age: 29, veto: hard, present_in_T1: true}
+    - {name: "Elliot Tran", relation: "college friend; doesn't drink", age: 29, veto: soft, present_in_T1: true}
+    - {name: "Rafi Haddad", relation: "college friend; vegetarian; flies in from Seattle late Friday and misses the first night", age: 31, veto: soft, present_in_T1: true}
+  decision_maker: "Nobody, formally. Devin decides by default in a group chat where nobody replies; then Danny and Nate veto after the fact, and the veto wins every time (canon/people.md)"
+  payer: "split per venue, on the night, via Venmo; Devin fronts bookings and gets paid back slowly. Nate is on a budget he will not name to a stranger; Danny is saving for a wedding"
+
+constraints:
+  budget:
+    per_head_dinner: {amount: 45, currency: "USD"}       # ≈ $$ with a drink; the ceiling Nate and Danny actually hold
+    stretch_once: {amount: 70, currency: "USD"}          # ONE dinner, all five, if Danny picks it; Nate will come and order small
+    who_flinches: "Nate (can't — between jobs; says 'I'm good' and orders a beer and an appetiser) and Danny (won't — wedding money; says 'can we not do $$$'). Devin's own ceiling is ~$110 and he assumes it's everyone's"
+  mobility: "none physical. LOGISTICS IS THE CONSTRAINT: five people, nobody drives, every move between neighbourhoods is two rideshares or an XL; a $$$ place across town costs the group $80 in rides before anyone orders. Silver Lake / Echo Park / Los Feliz / Koreatown / Frogtown are one short ride; Arts District and Hollywood are a real ride; Venice / Santa Monica / West Hollywood are 'across town' and effectively out"
+  dietary: ["Rafi: vegetarian (eats eggs and dairy; no fish)", "Elliot: doesn't drink — a bar is fine, a bar where drinking IS the activity is not (Devin will not tell an app this)"]
+  time_windows: ["Rafi lands LAX ~22:30 Friday 2026-09-11 and reaches the house ~23:30 — misses the first night entirely; the big dinner cannot be Friday", "Nate and Danny fly home Monday morning; Sunday night is early-ish", "Nothing before 11:00 on Saturday — hangovers, time zones"]
+  noise: "no one minds noise; a room where five can hear each other is nicer than one where they can't, and Danny will say so afterwards, not before"
+  queues_bookings: "Devin books ahead for anything he cares about and says 'we'll just roll up'; the group will not queue as five for more than ~15 minutes — someone (Nate) suggests the place next door and wins"
+  kids: "none"
+  other:
+    - "The occasion is a bachelor-ish weekend for Danny — his ask (in the one message he sent): 'one big dinner together, easy days, a bar we can all afford, and let's not be driving anywhere drunk'"
+    - "The group has done exactly one trip together as five: Nashville, 2024 (canon/history.md) — the shape that worked was one booked dinner, one dive bar, one daytime thing, everything within a short ride"
+    - "Nobody has vetoed anything yet in the chat because nobody has replied; the vetoes come after Devin shares a plan (T2 opens on this)"
+    - "Staying: a rented house in Silver Lake, Fri 2026-09-11 → Mon 2026-09-14, three nights; five beds; a patio the group will use more than any bar"
+
+taste:
+  loves:
+    - "a big table with all five at it — the only format the group has ever actually loved (L-01, L-15, L-16, L-17, L-18, L-09)"
+    - "cheap and loud over precise and quiet: dive bars, beer gardens, red booths (L-02, L-09, L-25, L-27, L-26)"
+    - "one great group dinner that everyone can pay for and Rafi can eat at — mole, Taiwanese, Thai, tacos (L-15, L-16, L-17, L-18)"
+    - "a ballgame or a show as the shared thing — a fixed seat, a fixed price, nobody has to choose (L-22, L-31, L-07)"
+    - "everything within a short ride of the house; the patio at the house counts as a venue"
+    - "Devin alone: cocktail bars where the drink is the point, rooms with a scene, $$$ dinners he'll describe for a year (L-03, L-12, L-14) — his, not the group's"
+  avoids:
+    - "$$$ and above for the group — two of five can't or won't (L-12, L-13, L-32, L-33, L-34, L-05, L-03)"
+    - "an hour and a half in Ubers for one place — Venice, Santa Monica, West Hollywood (L-13, L-33, L-34, L-35)"
+    - "a bar where drinking is the whole activity — cocktail temples, tasting flights, tiny standing rooms (L-14, L-28, L-03)"
+    - "meat-only formats once Rafi has landed — steakhouse, Korean barbecue as the big dinner (L-32, L-24)"
+    - "a wait as five (persona.yaml queues_bookings)"
+    - "anything that splits the group by money — a $$$ place where Nate orders an appetiser is worse than a $$ place where everyone eats"
+  format_preferences:
+    - "one booked table for five, ~19:30 Saturday, that is the whole plan; everything else is loose"
+    - "bars with booths or a patio; a soda on the menu that isn't an afterthought"
+    - "daytime = one easy thing (a hike, a market, a ballgame), not an itinerary"
+    - "walk from the house if possible; one short ride if not; two rides is a debate the plan loses"
+  price_signal: "Devin reads $$$ as 'a real place' and reaches for it; the group reads $$$ as 'Nate can't come'. $$ is the group's home band."
+  adventurousness_true: balanced
+  adventurousness_stated: stretch
+
+tech_and_habits:
+  tools:
+    - "Google Maps saved list 'LA!!!' (~30 pins, mostly his own from 2023 and Instagram — sample in gaps/session-state-hooks.md O1)"
+    - "The group chat 'DANNY'S LAST RIDE 🏇' (five people; Devin posts links, nobody replies for two days, then someone says no)"
+    - "A Google Sheet 'LA weekend' with tabs nobody but Devin has opened"
+    - "Instagram saves of LA bars (mostly cocktail bars)"
+    - "ChatGPT once, 'best bars Silver Lake' — a list he half-agreed with"
+  trust_in_ai: mixed
+  trust_in_strangers: mixed
+  research_style: "over-researcher who then presents the result as 'what everyone wanted'; posts a plan and reads silence as consent"
+  sharing_habit: "drops links in the group chat with 'thoughts??'; screenshots the Sheet; would share a list link if one existed and re-post it after edits — this is the trip's real workflow"
+
+trips:
+  - {id: T1, slug: "la-bachelor-weekend", city: "Los Angeles", dates: "planning session 2026-08-17; in LA 2026-09-11 (Fri) to 2026-09-14 (Mon), three nights", purpose: "bachelor-ish weekend for Danny; five friends; Devin planning it a month out and about to share a list to the chat"}
+  - {id: T2, slug: "la-replan-after-vetoes", city: "Los Angeles", dates: "2026-08-24, ~21:00, a week later", purpose: "the shared list drew two vetoes (Nate on price, Danny on Venice/distance); Devin returns to re-plan and re-share"}
+
+app_exposure:
+  heard_of: false
+  referral: ""

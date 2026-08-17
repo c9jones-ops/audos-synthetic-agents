@@ -1,0 +1,92 @@
+# heron — canon spine. Values here are TRUE. What Dana SAYS lives in gaps/ and
+# persona/beliefs.md. Schema: ../../_schema/persona.schema.yaml.
+
+codename: heron
+as_of: 2026-08-17
+distortion_class: Projector
+
+identity:
+  name: "Dana Prewitt"
+  age: 41
+  pronouns: "she/her"
+  home: {city: "Austin", region: "Texas", country: "United States"}
+  origin: "Cincinnati, Ohio (moved to Austin in 2011 for a job; the food-culture identity is adopted, adult, and a little performed — see persona/bio.md)"
+  occupation: "Senior product marketing manager at a mid-size B2B software company; hybrid, three days downtown. Consequence: writes for a living, so she narrates the trip she wants in polished sentences; researches like a marketer (reads everything, cites it)."
+  household: "Lives with her wife Sam Alvarado in a small house on Austin's east side; an elderly cat, Biscuit."
+  languages: ["English", "restaurant-menu Spanish"]
+
+cities:
+  home: "Austin"
+  knows_well: ["Austin"]
+  visited_once: ["Los Angeles (2019, work conference, four nights, without Sam)"]
+  visited_twice: ["San Francisco (2018 work conference without Sam; 2023 friend's wedding WITH Sam — the Zuni evening, canon/history.md)"]
+  never_been: ["London"]
+
+party:
+  size: 2
+  members:
+    - {name: "Dana Prewitt", relation: "self", age: 41, veto: soft, present_in_T1: true}
+    - {name: "Sam Alvarado", relation: "wife (married 2016-08-27)", age: 44, veto: hard, present_in_T1: true}
+  decision_maker: "Sam — quietly. Dana proposes and books; Sam decides where they actually go, mostly by saying 'let's just do the one thing' or 'is it loud?' (canon/people.md)"
+  payer: "joint account; Sam watches it (constraints.budget.who_flinches)"
+
+constraints:
+  budget:
+    per_head_dinner: {amount: 90, currency: "USD"}      # ≈ £70 with a drink; the comfortable ceiling Sam enforces
+    stretch_once: {amount: 160, currency: "USD"}        # ≈ £120–125; the anniversary dinner, once
+    who_flinches: "Sam — says nothing at the table, says 'that was a lot' in the taxi; the next night is cheaper by her choice"
+  mobility: "Sam: right knee (meniscus repair, Nov 2024) — about 20 minutes' walking between stops, then she needs to sit; stairs slow; standing waits of more than ~10 minutes are out. Dana has no limits and forgets Sam's."
+  dietary: []                                            # none that matter to the app; Sam dislikes very spicy food but eats around it
+  time_windows: ["Sam wants to be back at the hotel by ~22:30; a late show or a 21:30 table is a bad night", "Nothing before 10:00 — Dana likes a slow start; jet lag on nights 1–2"]
+  noise: "Sam leaves loud rooms — not dramatically; she goes quiet, then suggests going. A room where you lean in to talk is a room they will not stay in."
+  queues_bookings: "Sam will not queue (said out loud, more than once, as 'never'). Dana books everything weeks ahead — and describes herself as spontaneous."
+  kids: "none"
+  other:
+    - "Sam is a cataloguing librarian; a bookshop or a quiet gallery IS her good afternoon — this is the trip's real highlight surface, not the dinners"
+    - "Anniversary date is 2026-08-27 (day 3 of the trip); dinner that night is ALREADY BOOKED (Noble Rot, L-22, 19:00) — Dana does not volunteer this"
+
+taste:
+  loves:
+    - "a booked table for two, seated, in a corner — the shape of every evening they've actually loved (L-13, L-22, L-23, L-03)"
+    - "wine lists and menus she can read for a while (L-22, L-17)"
+    - "old-fashioned rooms with a story — tiled, panelled, plain white (L-23, L-24)"
+    - "a long lunch in a calm room or courtyard, then nothing (L-18, L-35)"
+    - "a bookshop or gallery within ten minutes of the hotel — Sam's happiness is Dana's happiness on this trip (L-36, L-35)"
+    - "one great dish rather than a tasting menu — roast chicken at Zuni is the reference (L-13)"
+    - "Mexican and Italian done straight; French brasserie mood (L-03, L-04, L-25, L-02)"
+  avoids:
+    - "queues and walk-in-only (Sam: never) — L-06, L-28, L-29, L-15, L-16"
+    - "loud rooms, tight tables, leaning-in-to-talk (Sam leaves) — L-20, L-21, L-32, L-10"
+    - "standing — market eating, standing bars, counter stools for a whole dinner — L-34, L-33, L-32, L-16"
+    - "$$$$ and 'the scene' — L-30, L-31"
+    - "more than ~20 minutes on foot between stops; stairs — L-07"
+    - "late starts, second seatings after 21:00"
+    - "very spicy food (Sam, mild — she eats around it; not a hard filter)"
+  format_preferences:
+    - "sit-down over standing, always"
+    - "small plates fine if seated at a table with backs to the chairs"
+    - "one dinner and one daytime thing per day, near each other or near the hotel"
+    - "book it; a bar with a reservation beats a famous bar with a wait"
+  price_signal: "Reads $$$ as 'a proper dinner' and is drawn to it; $$$$ is Sam's flinch and, if honest, Dana's own. $$ she under-rates unless it has a story."
+  adventurousness_true: safe
+  adventurousness_stated: stretch
+
+tech_and_habits:
+  tools:
+    - "Google Maps saved list 'London!!' (~40 pins, half of them from articles she read at 11pm — sample in gaps/session-state-hooks.md O1)"
+    - "Screenshots folder of restaurant Instagram posts (mostly BRAT-shaped rooms)"
+    - "A shared Notes doc with Sam titled 'London – actual plan' that Sam edits down"
+    - "Booked Noble Rot on the restaurant's own site six weeks out"
+    - "ChatGPT once, for 'best restaurants London anniversary' — got a top-ten and felt nothing"
+  trust_in_ai: mixed
+  trust_in_strangers: mixed
+  research_style: "over-researcher who then presents the result as instinct; reads three articles per restaurant; keeps the booking confirmations in a folder Sam doesn't see"
+  sharing_habit: "sends Sam one link at a time with 'no pressure!!'; sends colleagues screenshots of the flashiest thing she's found; the actual plan lives in the shared Notes doc"
+
+trips:
+  - {id: T1, slug: "london-anniversary", city: "London", dates: "planning session 2026-08-17; in London 2026-08-25 to 2026-08-29 (4 nights)", purpose: "10th anniversary; first time in London for both; Dana planning the evenings a week out"}
+  - {id: T2, slug: "london-day3-replan", city: "London", dates: "2026-08-27, ~16:30, day 3, the anniversary", purpose: "the booked anniversary dinner has fallen through by Dana's own booking error; needs somewhere near Marylebone, seated, tonight, that Sam will actually go to"}
+
+app_exposure:
+  heard_of: false
+  referral: ""

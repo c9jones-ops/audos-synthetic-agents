@@ -1,0 +1,105 @@
+# Kestrel — machine-readable spine. Objective truth as of T0 (2026-08).
+# Conforms to _schema/company.schema.yaml. All names fictional except nothing:
+# the real anchor is named only in PROVENANCE.md.
+
+codename: kestrel
+as_of: 2026-08
+entity:
+  legal_form: S-corp, single owner
+  founded: 2013            # public record also shows 2008/2012; see divergence-map
+  founder_owner: Matt Watson          # fictional; 100% owner
+  hq: Portland, Oregon, USA
+  locations:
+    - {name: Portland studio, kind: leased studio, real_presence: full, notes: ~7,400 sq ft, SE industrial district}
+    - {name: Bend, kind: desk share, real_presence: token, notes: two desks in a partner firm's office; one employee nearby}
+    - {name: Seattle, kind: coworking membership, real_presence: token, notes: client-meeting base; one remote employee}
+    - {name: Sausalito, kind: advisor's home office, real_presence: nominal, notes: senior brand advisor (contractor) address}
+
+team:
+  fte_total: 31
+  regular_contractors: 6          # video/edit surge bench + one brand advisor
+  composition:
+    leadership: 1        # founder (CEO + exec creative director)
+    ops_finance: 2       # director of ops & finance, studio coordinator
+    creative_direction: 1
+    design: 8
+    engineering: 6
+    content_production: 6
+    strategy: 1          # was 2 until Nov 2025 departure
+    account_management: 4
+    project_management: 2
+  founder_role_actual: >
+    Sells all new business, is creative-director-of-record on the top account,
+    personally delivers all three fractional-CMO engagements, approves all hires
+    and pricing. Roughly 60% of his week is billable delivery.
+
+financials:                       # trailing twelve months, Sep 2025 – Aug 2026
+  fee_revenue_ttm_usd: 5260000    # net/fee revenue; no media pass-through
+  revenue_per_head_usd: 169700
+  gross_margin_delivery_pct: 48.1 # (revenue - delivery labor/contractors/direct) / revenue
+  ebitda_ttm_usd: 435900
+  ebitda_margin_ttm_pct: 8.3
+  ebitda_margin_by_cy: {2024: 10.6, 2025: 7.4, 2026_partial: 5.8}
+  payroll_loaded_pct_revenue: 64.4
+  overhead_nonlabor_pct_revenue: 20.2
+  cash_on_hand_usd: 349000
+  debt: none
+  owner_comp: {salary_usd: 145000, draws_monthly_usd: 12000, note: salary deliberately under market}
+
+capital:
+  model: founder-funded, bootstrapped, no outside capital ever
+  distributions: S-corp quarterly tax distributions plus modest owner draws
+  governance: sole owner-director; no board; informal kitchen-cabinet of two peers
+
+product_mix:                      # TTM revenue by line; margins = (line revenue -
+                                  # line contractors/direct - primary_line loaded payroll) / line revenue
+  - {line: brand_identity, model: project, revenue_ttm_usd: 1780000, share_pct: 33.8, delivery_margin_pct: 56}
+  - {line: digital, model: project, revenue_ttm_usd: 1350000, share_pct: 25.7, delivery_margin_pct: 26,
+     note: eight assigned staff incl. two designers; contractor-dependent; quietly the second-worst line}
+  - {line: content_production, model: retainer, revenue_ttm_usd: 951000, share_pct: 18.1, delivery_margin_pct: 20}
+  - {line: strategy_research, model: project, revenue_ttm_usd: 510000, share_pct: 9.7, delivery_margin_pct: 64}
+  - {line: embedded_cmo, model: monthly engagement, revenue_ttm_usd: 669000, share_pct: 12.7, delivery_margin_pct: ~99 nominal,
+     note: no dedicated payroll — founder-delivered, his cost sits in leadership; the margin is an artifact of his calendar}
+  recurring_share_pct: 30.8       # content retainers + CMO engagements
+
+customers:
+  active_named: 13               # billing in Aug 2026; 15 named appear in the TTM window
+  top_client: {codename: Cascadia Sport Group, share_revenue_ttm_pct: 29.1,
+               share_delivery_margin_pct: 37.4, since: 2025-06,
+               scope: multi-property brand + content retainer + digital}
+  top3_share_pct: 41.5            # CSG + Bright Basin + Halewood
+  concentration_trend: stepped-up-and-held   # 24.8% (Q3-25) -> 28-30% every quarter since
+  logo_wall_note: public site shows 140+ logos; paying book is the 14 + long tail
+
+channels:                         # share of signed new business, TTM (channels.csv)
+  referral_pct: 54
+  existing_client_expansion_pct: 24
+  inbound_pct: 16                 # one large CMO engagement (Sift) arrived via the blog Feb 2026
+  partner_pct: 5
+  outbound_pct: 1
+  rainmaker: founder only; no salesperson; account team farms, does not hunt
+
+capabilities:
+  strong: [brand identity systems, sports/fan-culture creative, video production,
+           web design-build (WordPress/headless), founder-led strategy]
+  stretched: [content strategy at retainer scale, analytics/measurement, motion at volume]
+  absent: [paid media buying, PR, native mobile development]
+
+growth_posture:
+  stated_by_founder: aggressive — "we should be a $8-10M studio in three years"
+  actual: topline +8% YoY, entirely attributable to top client; rest of book -19.8% YoY
+  hiring: 25 (Aug 2024) -> 31 (Aug 2026); hired ahead of revenue into content line
+
+pricing:
+  public_rate_card: $150-199/hr, $25K project minimum
+  blended_realized_rate_usd_hr: 165   # revenue-weighted, from customers.csv
+  realized_rate_range: {content_retainers: 90-120, digital: 140-150, brand: 165-225, cmo: 260}
+  discipline: founder discounts for interesting work and for friends-of-the-studio
+
+instruments:                      # measurement infrastructure, honestly stated
+  accounting: outsourced bookkeeper + Priya Raman (ops dir) monthly close, cash basis review
+  time_tracking: Harvest, ~55% compliance, chronically late entries
+  utilization_number: 'quoted "85%" by founder; instrumentation broken; see gaps/unreliable-number.md'
+  pipeline: HubSpot, founder-maintained, stages aspirational
+  per_client_profitability: never computed          # buried findings live here
+  per_line_profitability: never computed

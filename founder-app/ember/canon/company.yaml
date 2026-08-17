@@ -1,0 +1,106 @@
+# Ember — machine-readable spine. Objective truth as of T0 (2026-08).
+# Conforms to _schema/company.schema.yaml with product-business adaptations
+# (logged in _research/decisions.md E8). Real public facts snapshot-cited;
+# everything financial/private is fiction per PROVENANCE.md.
+
+codename: ember
+as_of: 2026-08
+entity:
+  legal_form: LLC, brothers as members (Stephen majority operating member — interior fiction; public record shows no split)
+  founded: 2016            # Kickstarter launch Mar 2016; company's own materials also say 2014/2015 — see divergence-map
+  founder_owner: Stephen Muscarella (co-founder, played founder) + Chris Muscarella (co-founder, arms-length)
+  ceo: Katie Muscarella    # real public role (aggregator-findable); absent from company's own materials
+  hq: Port Jefferson Station, Long Island NY   # warehouse/HQ; "NYC" persists in older coverage — see divergence-map
+  locations:
+    - {name: Port Jefferson Station HQ/warehouse, kind: leased warehouse + office, real_presence: full}
+    - {name: 3PL overflow (Q4), kind: contracted, real_presence: seasonal}
+
+team:
+  fte_total: 9
+  regular_contractors: 0   # seasonal warehouse temps in Q4 as labor cost, not headcount
+  composition:
+    founder_product_brand: 1     # Stephen
+    ceo_ops: 1                   # Katie
+    ops_fulfillment: 2
+    ecommerce_marketing: 2
+    customer_experience: 1
+    wholesale: 1
+    production_qc: 1
+  founder_role_actual: >
+    Stephen owns product development, brand, content, foundry relationships,
+    and every growth idea; sells the big wholesale conversations personally;
+    approves nothing in a spreadsheet he didn't make. Katie (CEO) runs
+    operations, wholesale execution, and the finance cadence with an outside
+    bookkeeper. Chris takes a monthly call and reads the numbers late.
+
+financials:                       # trailing twelve months, Sep 2025 – Aug 2026
+  revenue_net_ttm_usd: 2638496
+  revenue_growth_ttm_pct: 23.8    # the two spike months = ~46% of YoY dollar growth; month-exclusion baseline ~+11-16% — buried finding C
+  blended_gross_margin_pct: 59.6  # DTC ~65, wholesale ~32 net-to-brand, marketplace ~48
+  ebitda_ttm_usd: 90513
+  ebitda_margin_ttm_pct: 3.4
+  marketing_pct_revenue: 12.6
+  payroll_loaded_pct_revenue: 27.1   # vertically integrated: in-house fulfillment
+  cash_on_hand_usd: 84742
+  inventory_balance_usd: 374694      # 128 days
+  debt: none                         # no institutional capital ever; see capital
+  owner_comp: {stephen_salary_usd: 71000, draws: none, note: founder-underpaid on purpose}
+
+capital:
+  model: >
+    Kickstarter-launched (real, public: $1,633,361 from 12,553 backers,
+    Mar–Apr 2016, $30K goal). Plus private money no aggregator tracks
+    (fiction, plausible behind the consistent "unfunded" listings):
+    a 2016 family loan of $60K (parents + an uncle; terms never papered
+    properly, treated by the family as a gift and by nobody as a loan),
+    and a 2024-11 bridge SAFE of $90K across three checks — his former
+    boss, the same uncle, and a family friend. No institutional capital,
+    no board, no investor updates sent since 2025-03.
+  governance: none formal; Katie runs a monthly numbers review Stephen half-attends
+
+product_mix:                      # TTM by family; revenue-by-line.csv
+  - {line: skillets, revenue_ttm_usd: 1523473, share_pct: 57.7, note: hero family; No.8 at $165 is the volume anchor}
+  - {line: dutch_ovens, revenue_ttm_usd: 455332, share_pct: 17.3}
+  - {line: griddles_other, revenue_ttm_usd: 242799, share_pct: 9.2}
+  - {line: care_accessories, revenue_ttm_usd: 285666, share_pct: 10.8, note: margin-rich, under-merchandised}
+  - {line: sets, revenue_ttm_usd: 131226, share_pct: 5.0}
+  recurring_share_pct: 0          # none — a product business; "repeat rate" is the adjacent truth (~22% of DTC orders)
+
+channels:                         # TTM revenue share; channels.csv carries orders + revenue
+  dtc_pct: 70
+  wholesale_pct: 25               # fastest-growing; 100+ real doors (public); top door ~2.9% of total revenue
+  marketplace_pct: 5              # quietly negative after fees — near-finding
+  aov_dtc_usd: 148
+  rainmaker: Stephen for anything big; Tom (wholesale AM) farms the independents
+
+customers:
+  structure: wholesale doors + DTC aggregate (no client concentration by design — the risk here is CHANNEL, not client)
+  top_wholesale_door_share_total_pct: 2.9
+  doors_count_public: "100+ (site stockist page)"
+
+capabilities:
+  strong: [product design/iteration, brand storytelling, community, foundry partnership, in-house fulfillment]
+  stretched: [wholesale operations at chain scale, forecasting, cash planning, paid acquisition efficiency]
+  absent: [finance function beyond bookkeeping, retail compliance/EDI experience, international logistics (EU shipping paused — real, public)]
+
+growth_posture:
+  stated_by_founder: '"We''ll double this year — call it five." (TTM $2.64M, tracking ~$2.9M CY2026)'
+  actual: >
+    +23.8% TTM headline; the two spike months (gift-guide Nov-25, No.5 launch
+    Mar-26) account for ~46% of the YoY dollar growth and month-exclusion
+    baseline growth is ~+11-16%. The ~$2.8-2.9M T0 run-rate is therefore more
+    defensible than the founder's $5M claim, but still assumes event-like demand.
+  hiring: 6 (Aug 2024) -> 9 (T0); wants a second wholesale hire he cannot fund
+
+pricing:
+  public_price_ladder: No.4 $100 / No.5 $125 / No.6 $135 / No.8 $165 / No.10 $215 / No.12 $265 / No.16 $350; 91 SKUs $12–$2,367 (snapshot-cited)
+  wholesale_terms: ~keystone off MAP; net-30 stated, net-45 realized; the two chains (Hearth & Hand Provisions, Camp & Pantry) at net-60
+  discipline: MAP held firmly (craft-guard); Factory Seconds as the only discount channel (real, public)
+
+instruments:                      # measurement infrastructure, honestly stated
+  accounting: outside bookkeeper monthly; Katie reviews; cash checked when it feels tight
+  dashboards: Shopify (Stephen checks daily, sometimes hourly), Meta ads manager, a wholesale spreadsheet Tom keeps
+  forward_cash_calendar: never built            # buried finding A lives here
+  contribution_margin_by_channel: never computed # buried finding B lives here
+  community_size: 'quoted "quarter of a million people"; instrumentation broken; see gaps/unreliable-number.md'
+  forecasting: Stephen's spreadsheet, built each January, abandoned by March

@@ -1,0 +1,550 @@
+month,client,line,revenue_usd,delivered_hours
+2024-08,Fernhill Health,brand,17889,102.2
+2024-08,Violet Ridge Vineyards,brand,6389,42.6
+2024-08,Other (long tail),brand,103504,766.7
+2024-08,Bright Basin Energy,digital,44009,293.4
+2024-08,Stonebriar Wealth,digital,23697,163.4
+2024-08,Other (long tail),digital,101560,752.3
+2024-08,Timberline Credit Union,content,14000,116.7
+2024-08,Violet Ridge Vineyards,content,8500,85.0
+2024-08,Meridian Robotics,strategy,13489,69.2
+2024-08,Other (long tail),strategy,31474,233.1
+2024-09,Fernhill Health,brand,23002,131.4
+2024-09,Violet Ridge Vineyards,brand,8215,54.8
+2024-09,Other (long tail),brand,133081,985.8
+2024-09,Bright Basin Energy,digital,46140,307.6
+2024-09,Stonebriar Wealth,digital,24845,171.3
+2024-09,Other (long tail),digital,106477,788.7
+2024-09,Timberline Credit Union,content,14000,116.7
+2024-09,Violet Ridge Vineyards,content,8500,85.0
+2024-09,TrailWorks Foundation,content,7500,83.3
+2024-09,Meridian Robotics,strategy,22930,117.6
+2024-09,Other (long tail),strategy,53505,396.3
+2024-10,Fernhill Health,brand,20165,115.2
+2024-10,Violet Ridge Vineyards,brand,7202,48.0
+2024-10,Other (long tail),brand,116668,864.2
+2024-10,Bright Basin Energy,digital,51754,345.0
+2024-10,Stonebriar Wealth,digital,27868,192.2
+2024-10,Other (long tail),digital,119433,884.7
+2024-10,Timberline Credit Union,content,14000,116.7
+2024-10,Violet Ridge Vineyards,content,8500,85.0
+2024-10,TrailWorks Foundation,content,7500,83.3
+2024-10,Meridian Robotics,strategy,16538,84.8
+2024-10,Other (long tail),strategy,38588,285.8
+2024-11,Fernhill Health,brand,24456,139.7
+2024-11,Juniper & Co.,brand,20962,123.3
+2024-11,Violet Ridge Vineyards,brand,8734,58.2
+2024-11,Other (long tail),brand,120532,892.8
+2024-11,Bright Basin Energy,digital,34800,232.0
+2024-11,Stonebriar Wealth,digital,18739,129.2
+2024-11,Other (long tail),digital,80309,594.9
+2024-11,Timberline Credit Union,content,14000,116.7
+2024-11,Peak & Pine Outfitters,content,11000,100.0
+2024-11,Violet Ridge Vineyards,content,8500,85.0
+2024-11,TrailWorks Foundation,content,7500,83.3
+2024-11,Meridian Robotics,strategy,16473,84.5
+2024-11,Other (long tail),strategy,38437,284.7
+2024-12,Fernhill Health,brand,16246,92.8
+2024-12,Juniper & Co.,brand,13925,81.9
+2024-12,Violet Ridge Vineyards,brand,5802,38.7
+2024-12,Other (long tail),brand,80071,593.1
+2024-12,Bright Basin Energy,digital,32786,218.6
+2024-12,Stonebriar Wealth,digital,17654,121.8
+2024-12,Other (long tail),digital,75661,560.5
+2024-12,Timberline Credit Union,content,14000,116.7
+2024-12,Peak & Pine Outfitters,content,11000,100.0
+2024-12,Violet Ridge Vineyards,content,8500,85.0
+2024-12,TrailWorks Foundation,content,7500,83.3
+2024-12,Other (long tail),content,6000,44.4
+2024-12,Meridian Robotics,strategy,13778,70.7
+2024-12,Other (long tail),strategy,32147,238.1
+2025-01,Fernhill Health,brand,15181,86.7
+2025-01,Juniper & Co.,brand,13012,76.5
+2025-01,Violet Ridge Vineyards,brand,5422,36.1
+2025-01,Other (long tail),brand,74820,554.2
+2025-01,Bright Basin Energy,digital,34637,230.9
+2025-01,Stonebriar Wealth,digital,18651,128.6
+2025-01,Other (long tail),digital,79931,592.1
+2025-01,Timberline Credit Union,content,14000,116.7
+2025-01,Peak & Pine Outfitters,content,11000,100.0
+2025-01,Violet Ridge Vineyards,content,8500,85.0
+2025-01,TrailWorks Foundation,content,7500,83.3
+2025-01,Meridian Robotics,strategy,9774,50.1
+2025-01,Larkspur Beverage Co,strategy,5213,27.4
+2025-01,Other (long tail),strategy,17593,130.3
+2025-02,Fernhill Health,brand,18746,107.1
+2025-02,Juniper & Co.,brand,16068,94.5
+2025-02,Violet Ridge Vineyards,brand,6695,44.6
+2025-02,Other (long tail),brand,92394,684.4
+2025-02,Bright Basin Energy,digital,39542,263.6
+2025-02,Stonebriar Wealth,digital,21292,146.8
+2025-02,Other (long tail),digital,91251,675.9
+2025-02,Timberline Credit Union,content,14000,116.7
+2025-02,Peak & Pine Outfitters,content,11000,100.0
+2025-02,Copper Kettle Hospitality,content,8500,89.5
+2025-02,Violet Ridge Vineyards,content,8500,85.0
+2025-02,TrailWorks Foundation,content,7500,83.3
+2025-02,Meridian Robotics,strategy,12550,64.4
+2025-02,Larkspur Beverage Co,strategy,6693,35.2
+2025-02,Other (long tail),strategy,22590,167.3
+2025-03,Fernhill Health,brand,20831,119.0
+2025-03,Juniper & Co.,brand,17855,105.0
+2025-03,Old Harbor Seafood,brand,14879,90.2
+2025-03,Violet Ridge Vineyards,brand,7440,49.6
+2025-03,Other (long tail),brand,87787,650.3
+2025-03,Bright Basin Energy,digital,29462,196.4
+2025-03,Stonebriar Wealth,digital,15864,109.4
+2025-03,Other (long tail),digital,67990,503.6
+2025-03,Timberline Credit Union,content,14000,116.7
+2025-03,Peak & Pine Outfitters,content,11000,100.0
+2025-03,Copper Kettle Hospitality,content,8500,89.5
+2025-03,Violet Ridge Vineyards,content,8500,85.0
+2025-03,TrailWorks Foundation,content,7500,83.3
+2025-03,Meridian Robotics,strategy,15232,78.1
+2025-03,Larkspur Beverage Co,strategy,8124,42.8
+2025-03,Other (long tail),strategy,27417,203.1
+2025-03,Copperline Coffee Roasters,cmo,32000,123.1
+2025-04,Fernhill Health,brand,17919,102.4
+2025-04,Juniper & Co.,brand,15359,90.3
+2025-04,Old Harbor Seafood,brand,12799,77.6
+2025-04,Violet Ridge Vineyards,brand,6400,42.7
+2025-04,Other (long tail),brand,75515,559.4
+2025-04,Bright Basin Energy,digital,36546,243.6
+2025-04,Stonebriar Wealth,digital,19679,135.7
+2025-04,Other (long tail),digital,84337,624.7
+2025-04,Timberline Credit Union,content,14000,116.7
+2025-04,Peak & Pine Outfitters,content,11000,100.0
+2025-04,Copper Kettle Hospitality,content,8500,89.5
+2025-04,Violet Ridge Vineyards,content,8500,85.0
+2025-04,TrailWorks Foundation,content,7500,83.3
+2025-04,Meridian Robotics,strategy,21744,111.5
+2025-04,Larkspur Beverage Co,strategy,11597,61.0
+2025-04,Other (long tail),strategy,39139,289.9
+2025-04,Copperline Coffee Roasters,cmo,20000,76.9
+2025-05,Fernhill Health,brand,23276,133.0
+2025-05,Juniper & Co.,brand,19951,117.4
+2025-05,Old Harbor Seafood,brand,16626,100.8
+2025-05,Violet Ridge Vineyards,brand,8313,55.4
+2025-05,Other (long tail),brand,98091,726.6
+2025-05,Bright Basin Energy,digital,39960,266.4
+2025-05,Stonebriar Wealth,digital,21517,148.4
+2025-05,Other (long tail),digital,92214,683.1
+2025-05,Timberline Credit Union,content,14000,116.7
+2025-05,Peak & Pine Outfitters,content,11000,100.0
+2025-05,Copper Kettle Hospitality,content,8500,89.5
+2025-05,Violet Ridge Vineyards,content,8500,85.0
+2025-05,TrailWorks Foundation,content,7500,83.3
+2025-05,Other (long tail),content,9000,66.7
+2025-05,Meridian Robotics,strategy,20014,102.6
+2025-05,Larkspur Beverage Co,strategy,10674,56.2
+2025-05,Other (long tail),strategy,36025,266.9
+2025-05,Copperline Coffee Roasters,cmo,20000,76.9
+2025-06,Fernhill Health,brand,18611,106.3
+2025-06,Juniper & Co.,brand,15952,93.8
+2025-06,Old Harbor Seafood,brand,13294,80.6
+2025-06,Violet Ridge Vineyards,brand,6647,44.3
+2025-06,Other (long tail),brand,78433,581.0
+2025-06,Bright Basin Energy,digital,26453,176.4
+2025-06,Stonebriar Wealth,digital,14244,98.2
+2025-06,Other (long tail),digital,61046,452.2
+2025-06,Timberline Credit Union,content,14000,116.7
+2025-06,Peak & Pine Outfitters,content,11000,100.0
+2025-06,Copper Kettle Hospitality,content,8500,89.5
+2025-06,Violet Ridge Vineyards,content,8500,85.0
+2025-06,TrailWorks Foundation,content,7500,83.3
+2025-06,Meridian Robotics,strategy,11757,60.3
+2025-06,Larkspur Beverage Co,strategy,6270,33.0
+2025-06,Other (long tail),strategy,21163,156.8
+2025-06,Copperline Coffee Roasters,cmo,20000,76.9
+2025-07,Cascadia Sport Group,brand,74579,331.5
+2025-07,Fernhill Health,brand,24860,142.1
+2025-07,Juniper & Co.,brand,21308,125.3
+2025-07,Old Harbor Seafood,brand,17757,107.6
+2025-07,Violet Ridge Vineyards,brand,8878,59.2
+2025-07,Other (long tail),brand,30187,223.6
+2025-07,Bright Basin Energy,digital,36909,246.1
+2025-07,Stonebriar Wealth,digital,19874,137.1
+2025-07,Other (long tail),digital,85175,630.9
+2025-07,Cascadia Sport Group,content,28000,124.4
+2025-07,Timberline Credit Union,content,14000,116.7
+2025-07,Peak & Pine Outfitters,content,11000,100.0
+2025-07,Copper Kettle Hospitality,content,8500,89.5
+2025-07,Violet Ridge Vineyards,content,8500,85.0
+2025-07,TrailWorks Foundation,content,7500,83.3
+2025-07,Meridian Robotics,strategy,19469,99.8
+2025-07,Larkspur Beverage Co,strategy,10384,54.7
+2025-07,Other (long tail),strategy,35044,259.6
+2025-07,Copperline Coffee Roasters,cmo,20000,76.9
+2025-08,Cascadia Sport Group,brand,66568,295.9
+2025-08,Fernhill Health,brand,22189,126.8
+2025-08,Juniper & Co.,brand,19019,111.9
+2025-08,Old Harbor Seafood,brand,15850,96.1
+2025-08,Violet Ridge Vineyards,brand,7925,52.8
+2025-08,Other (long tail),brand,26944,199.6
+2025-08,Bright Basin Energy,digital,35086,233.9
+2025-08,Stonebriar Wealth,digital,18892,130.3
+2025-08,Other (long tail),digital,80967,599.8
+2025-08,Cascadia Sport Group,content,28000,124.4
+2025-08,Timberline Credit Union,content,14000,116.7
+2025-08,Peak & Pine Outfitters,content,11000,100.0
+2025-08,Copper Kettle Hospitality,content,8500,89.5
+2025-08,Violet Ridge Vineyards,content,8500,85.0
+2025-08,TrailWorks Foundation,content,7500,83.3
+2025-08,Meridian Robotics,strategy,16433,84.3
+2025-08,Larkspur Beverage Co,strategy,8764,46.1
+2025-08,Other (long tail),strategy,29580,219.1
+2025-08,Copperline Coffee Roasters,cmo,20000,76.9
+2025-09,Cascadia Sport Group,brand,90414,401.8
+2025-09,Fernhill Health,brand,30138,172.2
+2025-09,Juniper & Co.,brand,25833,152.0
+2025-09,Old Harbor Seafood,brand,21527,130.5
+2025-09,Violet Ridge Vineyards,brand,10764,71.8
+2025-09,Other (long tail),brand,36596,271.1
+2025-09,Cascadia Sport Group,digital,44098,196.0
+2025-09,Bright Basin Energy,digital,34744,231.6
+2025-09,Stonebriar Wealth,digital,18708,129.0
+2025-09,Other (long tail),digital,36080,267.3
+2025-09,Cascadia Sport Group,content,28000,124.4
+2025-09,Timberline Credit Union,content,14000,116.7
+2025-09,Peak & Pine Outfitters,content,11000,100.0
+2025-09,Copper Kettle Hospitality,content,8500,89.5
+2025-09,Violet Ridge Vineyards,content,8500,85.0
+2025-09,TrailWorks Foundation,content,7500,83.3
+2025-09,Other (long tail),content,7000,51.9
+2025-09,Meridian Robotics,strategy,20719,106.3
+2025-09,Larkspur Beverage Co,strategy,11050,58.2
+2025-09,Other (long tail),strategy,37294,276.3
+2025-09,Copperline Coffee Roasters,cmo,20000,76.9
+2025-10,Cascadia Sport Group,brand,70374,312.8
+2025-10,Juniper & Co.,brand,20107,118.3
+2025-10,Old Harbor Seafood,brand,16756,101.6
+2025-10,Violet Ridge Vineyards,brand,8378,55.9
+2025-10,Other (long tail),brand,51943,384.8
+2025-10,Cascadia Sport Group,digital,60579,269.2
+2025-10,Bright Basin Energy,digital,47729,318.2
+2025-10,Stonebriar Wealth,digital,25700,177.2
+2025-10,Other (long tail),digital,49564,367.1
+2025-10,Cascadia Sport Group,content,28000,124.4
+2025-10,Timberline Credit Union,content,14000,116.7
+2025-10,Peak & Pine Outfitters,content,11000,100.0
+2025-10,Copper Kettle Hospitality,content,8500,89.5
+2025-10,Violet Ridge Vineyards,content,8500,85.0
+2025-10,TrailWorks Foundation,content,7500,83.3
+2025-10,Meridian Robotics,strategy,16969,87.0
+2025-10,Larkspur Beverage Co,strategy,9050,47.6
+2025-10,Other (long tail),strategy,30545,226.3
+2025-10,Copperline Coffee Roasters,cmo,20000,76.9
+2025-10,Halewood Bikes,cmo,38000,146.2
+2025-11,Cascadia Sport Group,brand,65154,289.6
+2025-11,Juniper & Co.,brand,18615,109.5
+2025-11,Old Harbor Seafood,brand,15513,94.0
+2025-11,Violet Ridge Vineyards,brand,7756,51.7
+2025-11,Other (long tail),brand,48090,356.2
+2025-11,Cascadia Sport Group,digital,30104,133.8
+2025-11,Bright Basin Energy,digital,23718,158.1
+2025-11,Stonebriar Wealth,digital,12772,88.1
+2025-11,Other (long tail),digital,24631,182.5
+2025-11,Cascadia Sport Group,content,28000,124.4
+2025-11,Timberline Credit Union,content,14000,116.7
+2025-11,Peak & Pine Outfitters,content,11000,100.0
+2025-11,Copper Kettle Hospitality,content,8500,89.5
+2025-11,Violet Ridge Vineyards,content,8500,85.0
+2025-11,TrailWorks Foundation,content,7500,83.3
+2025-11,Meridian Robotics,strategy,14234,73.0
+2025-11,Larkspur Beverage Co,strategy,7591,40.0
+2025-11,Other (long tail),strategy,25621,189.8
+2025-11,Copperline Coffee Roasters,cmo,20000,76.9
+2025-11,Halewood Bikes,cmo,26000,100.0
+2025-12,Cascadia Sport Group,brand,44896,199.5
+2025-12,Juniper & Co.,brand,12828,75.5
+2025-12,Old Harbor Seafood,brand,10690,64.8
+2025-12,Violet Ridge Vineyards,brand,5345,35.6
+2025-12,Other (long tail),brand,33137,245.5
+2025-12,Cascadia Sport Group,digital,24888,110.6
+2025-12,Bright Basin Energy,digital,19608,130.7
+2025-12,Stonebriar Wealth,digital,10558,72.8
+2025-12,Other (long tail),digital,20363,150.8
+2025-12,Cascadia Sport Group,content,28000,124.4
+2025-12,Timberline Credit Union,content,14000,116.7
+2025-12,Peak & Pine Outfitters,content,11000,100.0
+2025-12,Copper Kettle Hospitality,content,8500,89.5
+2025-12,Violet Ridge Vineyards,content,8500,85.0
+2025-12,TrailWorks Foundation,content,7500,83.3
+2025-12,Other (long tail),content,8000,59.3
+2025-12,Meridian Robotics,strategy,9275,47.6
+2025-12,Larkspur Beverage Co,strategy,4947,26.0
+2025-12,Other (long tail),strategy,16696,123.7
+2025-12,Copperline Coffee Roasters,cmo,20000,76.9
+2025-12,Halewood Bikes,cmo,26000,100.0
+2026-01,Cascadia Sport Group,brand,60601,269.3
+2026-01,Juniper & Co.,brand,17315,101.9
+2026-01,Old Harbor Seafood,brand,14429,87.4
+2026-01,Violet Ridge Vineyards,brand,7214,48.1
+2026-01,Other (long tail),brand,44729,331.3
+2026-01,Cascadia Sport Group,digital,28015,124.5
+2026-01,Bright Basin Energy,digital,22073,147.2
+2026-01,Stonebriar Wealth,digital,11885,82.0
+2026-01,Other (long tail),digital,22922,169.8
+2026-01,Cascadia Sport Group,content,28000,124.4
+2026-01,Timberline Credit Union,content,14000,116.7
+2026-01,Peak & Pine Outfitters,content,11000,100.0
+2026-01,Copper Kettle Hospitality,content,8500,89.5
+2026-01,Violet Ridge Vineyards,content,8500,85.0
+2026-01,TrailWorks Foundation,content,7500,83.3
+2026-01,Meridian Robotics,strategy,10928,56.0
+2026-01,Other (long tail),strategy,25497,188.9
+2026-01,Copperline Coffee Roasters,cmo,20000,76.9
+2026-01,Halewood Bikes,cmo,26000,100.0
+2026-02,Cascadia Sport Group,brand,46450,206.4
+2026-02,Juniper & Co.,brand,13272,78.1
+2026-02,Old Harbor Seafood,brand,11060,67.0
+2026-02,Violet Ridge Vineyards,brand,5530,36.9
+2026-02,Other (long tail),brand,34284,254.0
+2026-02,Cascadia Sport Group,digital,35607,158.3
+2026-02,Bright Basin Energy,digital,28054,187.0
+2026-02,Stonebriar Wealth,digital,15106,104.2
+2026-02,Other (long tail),digital,29134,215.8
+2026-02,Cascadia Sport Group,content,28000,124.4
+2026-02,Timberline Credit Union,content,14000,116.7
+2026-02,Peak & Pine Outfitters,content,11000,100.0
+2026-02,Copper Kettle Hospitality,content,8500,89.5
+2026-02,Violet Ridge Vineyards,content,7500,75.0
+2026-02,TrailWorks Foundation,content,6500,72.2
+2026-02,Meridian Robotics,strategy,9366,48.0
+2026-02,Other (long tail),strategy,21855,161.9
+2026-02,Copperline Coffee Roasters,cmo,20000,76.9
+2026-02,Halewood Bikes,cmo,26000,100.0
+2026-02,Sift Analytics,cmo,29000,111.5
+2026-03,Cascadia Sport Group,brand,63359,281.6
+2026-03,Juniper & Co.,brand,18103,106.5
+2026-03,Old Harbor Seafood,brand,15086,91.4
+2026-03,Violet Ridge Vineyards,brand,7543,50.3
+2026-03,Other (long tail),brand,46764,346.4
+2026-03,Cascadia Sport Group,digital,44932,199.7
+2026-03,Bright Basin Energy,digital,35401,236.0
+2026-03,Stonebriar Wealth,digital,19062,131.5
+2026-03,Other (long tail),digital,36763,272.3
+2026-03,Cascadia Sport Group,content,28000,124.4
+2026-03,Timberline Credit Union,content,14000,116.7
+2026-03,Peak & Pine Outfitters,content,11000,100.0
+2026-03,Copper Kettle Hospitality,content,8500,89.5
+2026-03,Violet Ridge Vineyards,content,7500,75.0
+2026-03,TrailWorks Foundation,content,6500,72.2
+2026-03,Other (long tail),content,6000,44.4
+2026-03,Meridian Robotics,strategy,14649,75.1
+2026-03,Other (long tail),strategy,34181,253.2
+2026-03,Copperline Coffee Roasters,cmo,20000,76.9
+2026-03,Halewood Bikes,cmo,26000,100.0
+2026-03,Sift Analytics,cmo,17000,65.4
+2026-04,Cascadia Sport Group,brand,58114,258.3
+2026-04,Juniper & Co.,brand,16604,97.7
+2026-04,Old Harbor Seafood,brand,13837,83.9
+2026-04,Violet Ridge Vineyards,brand,6918,46.1
+2026-04,Other (long tail),brand,42894,317.7
+2026-04,Cascadia Sport Group,digital,47693,212.0
+2026-04,Bright Basin Energy,digital,37576,250.5
+2026-04,Stonebriar Wealth,digital,20234,139.5
+2026-04,Other (long tail),digital,39022,289.1
+2026-04,Cascadia Sport Group,content,28000,124.4
+2026-04,Timberline Credit Union,content,14000,116.7
+2026-04,Peak & Pine Outfitters,content,11000,100.0
+2026-04,Copper Kettle Hospitality,content,8500,89.5
+2026-04,Violet Ridge Vineyards,content,7500,75.0
+2026-04,TrailWorks Foundation,content,6500,72.2
+2026-04,Meridian Robotics,strategy,9886,50.7
+2026-04,Other (long tail),strategy,23068,170.9
+2026-04,Copperline Coffee Roasters,cmo,20000,76.9
+2026-04,Halewood Bikes,cmo,26000,100.0
+2026-04,Sift Analytics,cmo,17000,65.4
+2026-05,Cascadia Sport Group,brand,73651,327.3
+2026-05,Juniper & Co.,brand,21043,123.8
+2026-05,Old Harbor Seafood,brand,17536,106.3
+2026-05,Violet Ridge Vineyards,brand,8768,58.5
+2026-05,Other (long tail),brand,54362,402.7
+2026-05,Cascadia Sport Group,digital,33442,148.6
+2026-05,Bright Basin Energy,digital,26348,175.7
+2026-05,Other (long tail),digital,41549,307.8
+2026-05,Cascadia Sport Group,content,28000,124.4
+2026-05,Timberline Credit Union,content,14000,116.7
+2026-05,Peak & Pine Outfitters,content,11000,100.0
+2026-05,Copper Kettle Hospitality,content,8500,89.5
+2026-05,Violet Ridge Vineyards,content,7500,75.0
+2026-05,TrailWorks Foundation,content,6500,72.2
+2026-05,Meridian Robotics,strategy,11202,57.4
+2026-05,Other (long tail),strategy,26137,193.6
+2026-05,Copperline Coffee Roasters,cmo,20000,76.9
+2026-05,Halewood Bikes,cmo,26000,100.0
+2026-05,Sift Analytics,cmo,17000,65.4
+2026-06,Cascadia Sport Group,brand,64723,287.7
+2026-06,Juniper & Co.,brand,18492,108.8
+2026-06,Old Harbor Seafood,brand,15410,93.4
+2026-06,Violet Ridge Vineyards,brand,7705,51.4
+2026-06,Other (long tail),brand,47773,353.9
+2026-06,Cascadia Sport Group,digital,38127,169.5
+2026-06,Bright Basin Energy,digital,30040,200.3
+2026-06,Other (long tail),digital,47370,350.9
+2026-06,Cascadia Sport Group,content,28000,124.4
+2026-06,Timberline Credit Union,content,14000,116.7
+2026-06,Peak & Pine Outfitters,content,11000,100.0
+2026-06,Copper Kettle Hospitality,content,8500,89.5
+2026-06,Violet Ridge Vineyards,content,7500,75.0
+2026-06,TrailWorks Foundation,content,6500,72.2
+2026-06,Other (long tail),content,9000,66.7
+2026-06,Meridian Robotics,strategy,9490,48.7
+2026-06,Other (long tail),strategy,22142,164.0
+2026-06,Copperline Coffee Roasters,cmo,20000,76.9
+2026-06,Halewood Bikes,cmo,26000,100.0
+2026-06,Sift Analytics,cmo,17000,65.4
+2026-07,Cascadia Sport Group,brand,64441,286.4
+2026-07,Juniper & Co.,brand,18412,108.3
+2026-07,Old Harbor Seafood,brand,15343,93.0
+2026-07,Violet Ridge Vineyards,brand,7672,51.1
+2026-07,Other (long tail),brand,47562,352.3
+2026-07,Cascadia Sport Group,digital,29038,129.1
+2026-07,Bright Basin Energy,digital,22878,152.5
+2026-07,Other (long tail),digital,36078,267.2
+2026-07,Cascadia Sport Group,content,28000,124.4
+2026-07,Timberline Credit Union,content,14000,116.7
+2026-07,Peak & Pine Outfitters,content,11000,100.0
+2026-07,Copper Kettle Hospitality,content,8500,89.5
+2026-07,Violet Ridge Vineyards,content,7500,75.0
+2026-07,TrailWorks Foundation,content,6500,72.2
+2026-07,Meridian Robotics,strategy,13142,67.4
+2026-07,Other (long tail),strategy,30663,227.1
+2026-07,Copperline Coffee Roasters,cmo,20000,76.9
+2026-07,Halewood Bikes,cmo,26000,100.0
+2026-07,Sift Analytics,cmo,17000,65.4
+2026-08,Cascadia Sport Group,brand,45421,201.9
+2026-08,Juniper & Co.,brand,12978,76.3
+2026-08,Old Harbor Seafood,brand,10815,65.5
+2026-08,Violet Ridge Vineyards,brand,5407,36.0
+2026-08,Other (long tail),brand,33525,248.3
+2026-08,Cascadia Sport Group,digital,28977,128.8
+2026-08,Bright Basin Energy,digital,22830,152.2
+2026-08,Other (long tail),digital,36001,266.7
+2026-08,Cascadia Sport Group,content,28000,124.4
+2026-08,Timberline Credit Union,content,14000,116.7
+2026-08,Peak & Pine Outfitters,content,11000,100.0
+2026-08,Copper Kettle Hospitality,content,8500,89.5
+2026-08,Violet Ridge Vineyards,content,7500,75.0
+2026-08,TrailWorks Foundation,content,6500,72.2
+2026-08,Other (long tail),content,5000,37.0
+2026-08,Meridian Robotics,strategy,13141,67.4
+2026-08,Other (long tail),strategy,30662,227.1
+2026-08,Copperline Coffee Roasters,cmo,20000,76.9
+2026-08,Halewood Bikes,cmo,26000,100.0
+2026-08,Sift Analytics,cmo,17000,65.4
+2026-09,Cascadia Sport Group,brand,74608,331.6
+2026-09,Juniper & Co.,brand,21317,125.4
+2026-09,Old Harbor Seafood,brand,17764,107.7
+2026-09,Violet Ridge Vineyards,brand,8882,59.2
+2026-09,Other (long tail),brand,55068,407.9
+2026-09,Cascadia Sport Group,digital,44995,200.0
+2026-09,Bright Basin Energy,digital,35451,236.3
+2026-09,Other (long tail),digital,55903,414.1
+2026-09,Cascadia Sport Group,content,28000,124.4
+2026-09,Timberline Credit Union,content,14000,116.7
+2026-09,Peak & Pine Outfitters,content,11000,100.0
+2026-09,Copper Kettle Hospitality,content,8500,89.5
+2026-09,Violet Ridge Vineyards,content,7500,75.0
+2026-09,TrailWorks Foundation,content,6500,72.2
+2026-09,Meridian Robotics,strategy,16365,83.9
+2026-09,Other (long tail),strategy,38186,282.9
+2026-09,Copperline Coffee Roasters,cmo,20000,76.9
+2026-09,Halewood Bikes,cmo,26000,100.0
+2026-09,Sift Analytics,cmo,17000,65.4
+2026-10,Cascadia Sport Group,brand,79378,352.8
+2026-10,Juniper & Co.,brand,22679,133.4
+2026-10,Old Harbor Seafood,brand,18900,114.5
+2026-10,Violet Ridge Vineyards,brand,9450,63.0
+2026-10,Other (long tail),brand,58588,434.0
+2026-10,Cascadia Sport Group,digital,54975,244.3
+2026-10,Bright Basin Energy,digital,43314,288.8
+2026-10,Other (long tail),digital,68303,505.9
+2026-10,Cascadia Sport Group,content,28000,124.4
+2026-10,Timberline Credit Union,content,14000,116.7
+2026-10,Peak & Pine Outfitters,content,11000,100.0
+2026-10,Copper Kettle Hospitality,content,8500,89.5
+2026-10,Violet Ridge Vineyards,content,7500,75.0
+2026-10,TrailWorks Foundation,content,6500,72.2
+2026-10,Meridian Robotics,strategy,18385,94.3
+2026-10,Other (long tail),strategy,42899,317.8
+2026-10,Copperline Coffee Roasters,cmo,20000,76.9
+2026-10,Halewood Bikes,cmo,26000,100.0
+2026-10,Sift Analytics,cmo,17000,65.4
+2026-11,Cascadia Sport Group,brand,58699,260.9
+2026-11,Juniper & Co.,brand,16771,98.7
+2026-11,Old Harbor Seafood,brand,13976,84.7
+2026-11,Violet Ridge Vineyards,brand,6988,46.6
+2026-11,Other (long tail),brand,43326,320.9
+2026-11,Cascadia Sport Group,digital,25946,115.3
+2026-11,Bright Basin Energy,digital,20442,136.3
+2026-11,Other (long tail),digital,32236,238.8
+2026-11,Cascadia Sport Group,content,28000,124.4
+2026-11,Timberline Credit Union,content,14000,116.7
+2026-11,Peak & Pine Outfitters,content,11000,100.0
+2026-11,Copper Kettle Hospitality,content,8500,89.5
+2026-11,Violet Ridge Vineyards,content,7500,75.0
+2026-11,TrailWorks Foundation,content,6500,72.2
+2026-11,Meridian Robotics,strategy,13031,66.8
+2026-11,Other (long tail),strategy,30406,225.2
+2026-11,Copperline Coffee Roasters,cmo,20000,76.9
+2026-11,Sift Analytics,cmo,17000,65.4
+2026-12,Cascadia Sport Group,brand,40105,178.2
+2026-12,Juniper & Co.,brand,11459,67.4
+2026-12,Old Harbor Seafood,brand,9549,57.9
+2026-12,Violet Ridge Vineyards,brand,4774,31.8
+2026-12,Other (long tail),brand,29602,219.3
+2026-12,Cascadia Sport Group,digital,22026,97.9
+2026-12,Bright Basin Energy,digital,17354,115.7
+2026-12,Other (long tail),digital,27365,202.7
+2026-12,Cascadia Sport Group,content,28000,124.4
+2026-12,Timberline Credit Union,content,14000,116.7
+2026-12,Peak & Pine Outfitters,content,11000,100.0
+2026-12,Copper Kettle Hospitality,content,8500,89.5
+2026-12,Violet Ridge Vineyards,content,7500,75.0
+2026-12,TrailWorks Foundation,content,6500,72.2
+2026-12,Sable House Goods,content,6500,70.7
+2026-12,Other (long tail),content,7000,51.9
+2026-12,Meridian Robotics,strategy,10679,54.8
+2026-12,Other (long tail),strategy,24917,184.6
+2026-12,Copperline Coffee Roasters,cmo,20000,76.9
+2026-12,Sift Analytics,cmo,17000,65.4
+2027-01,Cascadia Sport Group,brand,51802,230.2
+2027-01,Juniper & Co.,brand,14801,87.1
+2027-01,Old Harbor Seafood,brand,12334,74.8
+2027-01,Violet Ridge Vineyards,brand,6167,41.1
+2027-01,Other (long tail),brand,38235,283.2
+2027-01,Cascadia Sport Group,digital,25609,113.8
+2027-01,Bright Basin Energy,digital,20177,134.5
+2027-01,Other (long tail),digital,31818,235.7
+2027-01,Cascadia Sport Group,content,28000,124.4
+2027-01,Timberline Credit Union,content,14000,116.7
+2027-01,Peak & Pine Outfitters,content,11000,100.0
+2027-01,Copper Kettle Hospitality,content,8500,89.5
+2027-01,Violet Ridge Vineyards,content,7500,75.0
+2027-01,TrailWorks Foundation,content,6500,72.2
+2027-01,Sable House Goods,content,6500,70.7
+2027-01,Meridian Robotics,strategy,13085,67.1
+2027-01,Other (long tail),strategy,30533,226.2
+2027-01,Copperline Coffee Roasters,cmo,20000,76.9
+2027-01,Sift Analytics,cmo,17000,65.4
+2027-02,Cascadia Sport Group,brand,55316,245.8
+2027-02,Juniper & Co.,brand,15804,93.0
+2027-02,Old Harbor Seafood,brand,13170,79.8
+2027-02,Violet Ridge Vineyards,brand,6585,43.9
+2027-02,Other (long tail),brand,40829,302.4
+2027-02,Cascadia Sport Group,digital,41769,185.6
+2027-02,Bright Basin Energy,digital,32909,219.4
+2027-02,Other (long tail),digital,51896,384.4
+2027-02,Cascadia Sport Group,content,28000,124.4
+2027-02,Timberline Credit Union,content,14000,116.7
+2027-02,Peak & Pine Outfitters,content,11000,100.0
+2027-02,Copper Kettle Hospitality,content,8500,89.5
+2027-02,Violet Ridge Vineyards,content,7500,75.0
+2027-02,TrailWorks Foundation,content,6500,72.2
+2027-02,Sable House Goods,content,6500,70.7
+2027-02,Meridian Robotics,strategy,8527,43.7
+2027-02,Other (long tail),strategy,19895,147.4
+2027-02,Copperline Coffee Roasters,cmo,20000,76.9
+2027-02,Sift Analytics,cmo,17000,65.4

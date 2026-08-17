@@ -1,0 +1,76 @@
+# Schema for <codename>/canon/persona.yaml — the machine-readable spine.
+# Every headline fact about the person in one short file; narratives in canon/
+# tell the story behind a value and must not contradict it. Values here are
+# TRUE (canon). What the persona SAYS lives in gaps/ and persona/beliefs.md.
+#
+# Conventions: dates ISO; money in the persona's home currency with code;
+# distances in minutes-on-foot where the app would care; every list item that a
+# roleplayer might be asked about must be present (no "etc.").
+
+codename: heron                      # REQUIRED — folder name; never the in-world name
+as_of: 2026-08-17                    # REQUIRED — the date T1 is set in
+distortion_class: Projector          # REQUIRED — one per persona; see design §4
+
+identity:                            # REQUIRED block
+  name: ""                           # in-world full name (only inside this folder)
+  age: 0
+  pronouns: ""                       # stated; used in all files
+  home: {city: "", region: "", country: ""}
+  origin: ""                         # where they grew up, if different (shapes taste)
+  occupation: ""                     # one line; behavioural consequence noted in bio.md
+  household: ""                      # who they live with, one line
+  languages: []                      # OPTIONAL
+
+cities:                              # REQUIRED — the app asks "where are you from" + "other cities you know well"
+  home: ""
+  knows_well: []                     # would say yes to "know well enough to vouch for"
+  visited_once: []                   # OPTIONAL
+  never_been: []                     # OPTIONAL — matters for the app's three cities
+
+party:                               # REQUIRED — who is on the trip in T1 (details in canon/people.md)
+  size: 1
+  members:
+    - {name: "", relation: "", age: 0, veto: none|soft|hard, present_in_T1: true}
+  decision_maker: ""                 # who actually chooses; may differ from the seeker
+  payer: ""                          # whose money; "split" allowed
+
+constraints:                         # REQUIRED — the things the app must elicit or fail on
+  budget:
+    per_head_dinner: {amount: 0, currency: ""}   # comfortable ceiling
+    stretch_once: {amount: 0, currency: ""}      # OPTIONAL — special-occasion ceiling
+    who_flinches: ""                             # OPTIONAL — which party member cares
+  mobility: ""                       # e.g. "20 min walking cap between stops (partner's knee)"; "none"
+  dietary: []                        # per member if relevant: "Sam: no shellfish"
+  time_windows: []                   # e.g. "must be back for last Victoria line ~00:20"
+  noise: ""                          # e.g. "partner leaves loud rooms"
+  queues_bookings: ""                # e.g. "will not queue >10 min; books ahead"
+  kids: ""                           # "none" or ages present + what that changes
+  other: []
+
+taste:                               # REQUIRED — axes; the ledger is the evidence
+  loves: []                          # 4–8 short phrases ("natural wine but not the sermon")
+  avoids: []                         # 4–8 short phrases
+  format_preferences: []             # "sit-down over standing", "small plates ok if seated"
+  price_signal: ""                   # how they read $$$
+  adventurousness_true: safe|balanced|stretch   # what they'd actually enjoy
+  adventurousness_stated: safe|balanced|stretch # what they'd tap; may differ (then it's in gaps/)
+
+tech_and_habits:                     # REQUIRED — how they research and decide today
+  tools: []                          # "Google Maps saved list (~60 pins)", "friend's Google Doc", "Instagram saves", "ChatGPT once"
+  trust_in_ai: low|mixed|high
+  trust_in_strangers: low|mixed|high # named-but-unknown curators
+  research_style: ""                 # one line: over-researcher / delegates / last-minute
+  sharing_habit: ""                  # how they pass recs to others today
+
+trips:                               # REQUIRED — index of scenario briefs
+  - {id: T1, slug: "", city: "", dates: "", purpose: ""}
+  - {id: T2, slug: "", city: "", dates: "", purpose: ""}
+
+app_exposure:                        # REQUIRED — what they know of the app before T1
+  heard_of: false                    # true only if a plausible referral exists (name it in history.md)
+  referral: ""                       # OPTIONAL
+
+# [scale] notes — fields to add if a persona needs them:
+#   accessibility (sensory / dietary-medical) — keep at app-register detail
+#   work_travel: {expenses: true, policy_cap: ...}
+#   children: [{age: 0}] — never voiced first-person; see care rules

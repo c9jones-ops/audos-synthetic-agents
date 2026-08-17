@@ -1,0 +1,362 @@
+month,customer,channel,revenue_usd,units
+2024-08,Hearth & Hand Provisions (3 doors),wholesale,2959,32
+2024-08,Copper Birch Kitchen Co.,wholesale,3057,33
+2024-08,Northline Mercantile (2 doors),wholesale,2525,27
+2024-08,Fogtown General,wholesale,1826,20
+2024-08,Wholesale — other doors,wholesale,20637,224
+2024-08,DTC (aggregate),dtc,108707,735
+2024-08,Marketplace,marketplace,7269,52
+2024-09,Hearth & Hand Provisions (3 doors),wholesale,4288,47
+2024-09,Copper Birch Kitchen Co.,wholesale,3106,34
+2024-09,Northline Mercantile (2 doors),wholesale,2367,26
+2024-09,Fogtown General,wholesale,2458,27
+2024-09,Wholesale — other doors,wholesale,24284,264
+2024-09,DTC (aggregate),dtc,123861,837
+2024-09,Marketplace,marketplace,7791,55
+2024-10,Hearth & Hand Provisions (3 doors),wholesale,4473,49
+2024-10,Copper Birch Kitchen Co.,wholesale,2316,25
+2024-10,Northline Mercantile (2 doors),wholesale,2472,27
+2024-10,Fogtown General,wholesale,2257,25
+2024-10,Wholesale — other doors,wholesale,22234,242
+2024-10,DTC (aggregate),dtc,134685,910
+2024-10,Marketplace,marketplace,10171,72
+2024-11,Hearth & Hand Provisions (3 doors),wholesale,8315,90
+2024-11,Copper Birch Kitchen Co.,wholesale,5039,55
+2024-11,Northline Mercantile (2 doors),wholesale,5543,60
+2024-11,Fogtown General,wholesale,3481,38
+2024-11,Wholesale — other doors,wholesale,39397,428
+2024-11,DTC (aggregate),dtc,192587,1301
+2024-11,Marketplace,marketplace,14457,103
+2024-12,Hearth & Hand Provisions (3 doors),wholesale,6370,69
+2024-12,Copper Birch Kitchen Co.,wholesale,5302,58
+2024-12,Northline Mercantile (2 doors),wholesale,4538,49
+2024-12,Fogtown General,wholesale,4077,44
+2024-12,Wholesale — other doors,wholesale,40676,442
+2024-12,DTC (aggregate),dtc,208742,1410
+2024-12,Marketplace,marketplace,13631,97
+2025-01,Hearth & Hand Provisions (3 doors),wholesale,2983,32
+2025-01,Copper Birch Kitchen Co.,wholesale,2321,25
+2025-01,Northline Mercantile (2 doors),wholesale,2340,25
+2025-01,The Larder & Co.,wholesale,1734,19
+2025-01,Fogtown General,wholesale,1599,17
+2025-01,Wholesale — other doors,wholesale,18584,202
+2025-01,DTC (aggregate),dtc,91451,618
+2025-01,Marketplace,marketplace,5610,40
+2025-02,Hearth & Hand Provisions (3 doors),wholesale,4264,46
+2025-02,Copper Birch Kitchen Co.,wholesale,2429,26
+2025-02,Northline Mercantile (2 doors),wholesale,2640,29
+2025-02,The Larder & Co.,wholesale,2363,26
+2025-02,Fogtown General,wholesale,2011,22
+2025-02,Wholesale — other doors,wholesale,17530,191
+2025-02,DTC (aggregate),dtc,98729,667
+2025-02,Marketplace,marketplace,6923,49
+2025-03,Hearth & Hand Provisions (3 doors),wholesale,4330,47
+2025-03,Copper Birch Kitchen Co.,wholesale,3765,41
+2025-03,Northline Mercantile (2 doors),wholesale,2941,32
+2025-03,The Larder & Co.,wholesale,2320,25
+2025-03,Fogtown General,wholesale,1915,21
+2025-03,Camp & Pantry (4 doors),wholesale,3617,39
+2025-03,Wholesale — other doors,wholesale,19500,212
+2025-03,DTC (aggregate),dtc,119234,806
+2025-03,Marketplace,marketplace,7122,51
+2025-04,Hearth & Hand Provisions (3 doors),wholesale,4334,47
+2025-04,Copper Birch Kitchen Co.,wholesale,2735,30
+2025-04,Northline Mercantile (2 doors),wholesale,2166,24
+2025-04,The Larder & Co.,wholesale,2278,25
+2025-04,Fogtown General,wholesale,2060,22
+2025-04,Camp & Pantry (4 doors),wholesale,2985,32
+2025-04,Wholesale — other doors,wholesale,15718,171
+2025-04,DTC (aggregate),dtc,117057,791
+2025-04,Marketplace,marketplace,8437,60
+2025-05,Hearth & Hand Provisions (3 doors),wholesale,4945,54
+2025-05,Copper Birch Kitchen Co.,wholesale,3001,33
+2025-05,Northline Mercantile (2 doors),wholesale,3506,38
+2025-05,The Larder & Co.,wholesale,2272,25
+2025-05,Fogtown General,wholesale,2328,25
+2025-05,Camp & Pantry (4 doors),wholesale,4047,44
+2025-05,Juniper Home,wholesale,2080,23
+2025-05,Wholesale — other doors,wholesale,16348,178
+2025-05,DTC (aggregate),dtc,121293,820
+2025-05,Marketplace,marketplace,8408,60
+2025-06,Hearth & Hand Provisions (3 doors),wholesale,4718,51
+2025-06,Copper Birch Kitchen Co.,wholesale,3233,35
+2025-06,Northline Mercantile (2 doors),wholesale,2936,32
+2025-06,The Larder & Co.,wholesale,2459,27
+2025-06,Fogtown General,wholesale,2248,24
+2025-06,Camp & Pantry (4 doors),wholesale,3017,33
+2025-06,Juniper Home,wholesale,2135,23
+2025-06,Wholesale — other doors,wholesale,21390,232
+2025-06,DTC (aggregate),dtc,118261,799
+2025-06,Marketplace,marketplace,9210,65
+2025-07,Hearth & Hand Provisions (3 doors),wholesale,3964,43
+2025-07,Copper Birch Kitchen Co.,wholesale,3112,34
+2025-07,Northline Mercantile (2 doors),wholesale,2095,23
+2025-07,The Larder & Co.,wholesale,2150,23
+2025-07,Fogtown General,wholesale,1471,16
+2025-07,Camp & Pantry (4 doors),wholesale,2259,25
+2025-07,Juniper Home,wholesale,1228,13
+2025-07,Wholesale — other doors,wholesale,15016,163
+2025-07,DTC (aggregate),dtc,105986,716
+2025-07,Marketplace,marketplace,7544,54
+2025-08,Hearth & Hand Provisions (3 doors),wholesale,3320,36
+2025-08,Copper Birch Kitchen Co.,wholesale,3022,33
+2025-08,Northline Mercantile (2 doors),wholesale,2765,30
+2025-08,The Larder & Co.,wholesale,2302,25
+2025-08,Fogtown General,wholesale,2418,26
+2025-08,Camp & Pantry (4 doors),wholesale,2840,31
+2025-08,Juniper Home,wholesale,1846,20
+2025-08,Stonepath Outfitters,wholesale,1760,19
+2025-08,Wholesale — other doors,wholesale,14850,161
+2025-08,DTC (aggregate),dtc,120556,815
+2025-08,Marketplace,marketplace,7356,52
+2025-09,Hearth & Hand Provisions (3 doors),wholesale,4567,50
+2025-09,Copper Birch Kitchen Co.,wholesale,3765,41
+2025-09,Northline Mercantile (2 doors),wholesale,3484,38
+2025-09,The Larder & Co.,wholesale,2410,26
+2025-09,Fogtown General,wholesale,2531,28
+2025-09,Camp & Pantry (4 doors),wholesale,4107,45
+2025-09,Juniper Home,wholesale,2099,23
+2025-09,Stonepath Outfitters,wholesale,2053,22
+2025-09,Wholesale — other doors,wholesale,15624,170
+2025-09,DTC (aggregate),dtc,127510,862
+2025-09,Marketplace,marketplace,9412,67
+2025-10,Hearth & Hand Provisions (3 doors),wholesale,5292,58
+2025-10,Copper Birch Kitchen Co.,wholesale,4411,48
+2025-10,Northline Mercantile (2 doors),wholesale,4151,45
+2025-10,The Larder & Co.,wholesale,2424,26
+2025-10,Fogtown General,wholesale,2541,28
+2025-10,Camp & Pantry (4 doors),wholesale,4281,47
+2025-10,Juniper Home,wholesale,1949,21
+2025-10,Stonepath Outfitters,wholesale,1738,19
+2025-10,Milltown Kitchen Supply,wholesale,2108,23
+2025-10,Wholesale — other doors,wholesale,17594,191
+2025-10,DTC (aggregate),dtc,148049,1000
+2025-10,Marketplace,marketplace,10896,77
+2025-11,Hearth & Hand Provisions (3 doors),wholesale,8663,94
+2025-11,Copper Birch Kitchen Co.,wholesale,6954,76
+2025-11,Northline Mercantile (2 doors),wholesale,7584,82
+2025-11,The Larder & Co.,wholesale,5254,57
+2025-11,Fogtown General,wholesale,4485,49
+2025-11,Camp & Pantry (4 doors),wholesale,8096,88
+2025-11,Juniper Home,wholesale,4437,48
+2025-11,Stonepath Outfitters,wholesale,4684,51
+2025-11,Milltown Kitchen Supply,wholesale,4409,48
+2025-11,Wholesale — other doors,wholesale,35115,382
+2025-11,DTC (aggregate),dtc,280061,1892
+2025-11,Marketplace,marketplace,18499,131
+2025-12,Hearth & Hand Provisions (3 doors),wholesale,11090,121
+2025-12,Copper Birch Kitchen Co.,wholesale,6935,75
+2025-12,Northline Mercantile (2 doors),wholesale,7689,84
+2025-12,The Larder & Co.,wholesale,5716,62
+2025-12,Fogtown General,wholesale,4992,54
+2025-12,Camp & Pantry (4 doors),wholesale,8504,92
+2025-12,Juniper Home,wholesale,4512,49
+2025-12,Stonepath Outfitters,wholesale,4336,47
+2025-12,Milltown Kitchen Supply,wholesale,3633,39
+2025-12,Wholesale — other doors,wholesale,31746,345
+2025-12,DTC (aggregate),dtc,240129,1622
+2025-12,Marketplace,marketplace,18498,131
+2026-01,Hearth & Hand Provisions (3 doors),wholesale,3850,42
+2026-01,Copper Birch Kitchen Co.,wholesale,3201,35
+2026-01,Northline Mercantile (2 doors),wholesale,3073,33
+2026-01,The Larder & Co.,wholesale,2213,24
+2026-01,Fogtown General,wholesale,2443,27
+2026-01,Camp & Pantry (4 doors),wholesale,3268,36
+2026-01,Juniper Home,wholesale,1706,19
+2026-01,Stonepath Outfitters,wholesale,1360,15
+2026-01,Milltown Kitchen Supply,wholesale,1676,18
+2026-01,Wren & Ash,wholesale,1504,16
+2026-01,Wholesale — other doors,wholesale,12954,141
+2026-01,DTC (aggregate),dtc,95036,642
+2026-01,Marketplace,marketplace,7575,54
+2026-02,Hearth & Hand Provisions (3 doors),wholesale,4626,50
+2026-02,Copper Birch Kitchen Co.,wholesale,3000,33
+2026-02,Northline Mercantile (2 doors),wholesale,3384,37
+2026-02,The Larder & Co.,wholesale,2877,31
+2026-02,Fogtown General,wholesale,2242,24
+2026-02,Camp & Pantry (4 doors),wholesale,3166,34
+2026-02,Juniper Home,wholesale,1644,18
+2026-02,Stonepath Outfitters,wholesale,1701,18
+2026-02,Milltown Kitchen Supply,wholesale,1713,19
+2026-02,Wren & Ash,wholesale,1312,14
+2026-02,Wholesale — other doors,wholesale,16066,175
+2026-02,DTC (aggregate),dtc,103112,697
+2026-02,Marketplace,marketplace,7124,51
+2026-03,Hearth & Hand Provisions (3 doors),wholesale,7314,80
+2026-03,Copper Birch Kitchen Co.,wholesale,7560,82
+2026-03,Northline Mercantile (2 doors),wholesale,6328,69
+2026-03,The Larder & Co.,wholesale,4254,46
+2026-03,Fogtown General,wholesale,4089,44
+2026-03,Camp & Pantry (4 doors),wholesale,5541,60
+2026-03,Juniper Home,wholesale,3248,35
+2026-03,Stonepath Outfitters,wholesale,4189,46
+2026-03,Milltown Kitchen Supply,wholesale,2598,28
+2026-03,Wren & Ash,wholesale,3118,34
+2026-03,Bluff City Cook Shop,wholesale,2713,29
+2026-03,Wholesale — other doors,wholesale,27298,297
+2026-03,DTC (aggregate),dtc,188389,1273
+2026-03,Marketplace,marketplace,14085,100
+2026-04,Hearth & Hand Provisions (3 doors),wholesale,7470,81
+2026-04,Copper Birch Kitchen Co.,wholesale,5421,59
+2026-04,Northline Mercantile (2 doors),wholesale,3873,42
+2026-04,The Larder & Co.,wholesale,4081,44
+2026-04,Fogtown General,wholesale,3390,37
+2026-04,Camp & Pantry (4 doors),wholesale,4024,44
+2026-04,Juniper Home,wholesale,2671,29
+2026-04,Stonepath Outfitters,wholesale,2022,22
+2026-04,Milltown Kitchen Supply,wholesale,2588,28
+2026-04,Wren & Ash,wholesale,2034,22
+2026-04,Bluff City Cook Shop,wholesale,2126,23
+2026-04,Wholesale — other doors,wholesale,15368,167
+2026-04,DTC (aggregate),dtc,163312,1103
+2026-04,Marketplace,marketplace,11256,80
+2026-05,Hearth & Hand Provisions (3 doors),wholesale,7509,82
+2026-05,Copper Birch Kitchen Co.,wholesale,5352,58
+2026-05,Northline Mercantile (2 doors),wholesale,4475,49
+2026-05,The Larder & Co.,wholesale,3269,36
+2026-05,Fogtown General,wholesale,2635,29
+2026-05,Camp & Pantry (4 doors),wholesale,4401,48
+2026-05,Juniper Home,wholesale,3205,35
+2026-05,Stonepath Outfitters,wholesale,2559,28
+2026-05,Milltown Kitchen Supply,wholesale,2084,23
+2026-05,Wren & Ash,wholesale,2266,25
+2026-05,Bluff City Cook Shop,wholesale,2030,22
+2026-05,Old Post Provisions,wholesale,1666,18
+2026-05,Wholesale — other doors,wholesale,13318,145
+2026-05,DTC (aggregate),dtc,136240,921
+2026-05,Marketplace,marketplace,8629,61
+2026-06,Hearth & Hand Provisions (3 doors),wholesale,6034,66
+2026-06,Copper Birch Kitchen Co.,wholesale,3523,38
+2026-06,Northline Mercantile (2 doors),wholesale,3100,34
+2026-06,The Larder & Co.,wholesale,2932,32
+2026-06,Fogtown General,wholesale,2618,28
+2026-06,Camp & Pantry (4 doors),wholesale,4746,52
+2026-06,Juniper Home,wholesale,2467,27
+2026-06,Stonepath Outfitters,wholesale,2194,24
+2026-06,Milltown Kitchen Supply,wholesale,2254,24
+2026-06,Wren & Ash,wholesale,1714,19
+2026-06,Bluff City Cook Shop,wholesale,1379,15
+2026-06,Old Post Provisions,wholesale,1158,13
+2026-06,Wholesale — other doors,wholesale,12208,133
+2026-06,DTC (aggregate),dtc,128217,866
+2026-06,Marketplace,marketplace,7946,56
+2026-07,Hearth & Hand Provisions (3 doors),wholesale,5326,58
+2026-07,Copper Birch Kitchen Co.,wholesale,3142,34
+2026-07,Northline Mercantile (2 doors),wholesale,3431,37
+2026-07,The Larder & Co.,wholesale,2516,27
+2026-07,Fogtown General,wholesale,2645,29
+2026-07,Camp & Pantry (4 doors),wholesale,3739,41
+2026-07,Juniper Home,wholesale,1817,20
+2026-07,Stonepath Outfitters,wholesale,1700,18
+2026-07,Milltown Kitchen Supply,wholesale,1666,18
+2026-07,Wren & Ash,wholesale,1810,20
+2026-07,Bluff City Cook Shop,wholesale,1528,17
+2026-07,Old Post Provisions,wholesale,1102,12
+2026-07,Wholesale — other doors,wholesale,9785,106
+2026-07,DTC (aggregate),dtc,108840,735
+2026-07,Marketplace,marketplace,7348,52
+2026-08,Hearth & Hand Provisions (3 doors),wholesale,6970,76
+2026-08,Copper Birch Kitchen Co.,wholesale,4847,53
+2026-08,Northline Mercantile (2 doors),wholesale,4937,54
+2026-08,The Larder & Co.,wholesale,3033,33
+2026-08,Fogtown General,wholesale,2740,30
+2026-08,Camp & Pantry (4 doors),wholesale,4180,45
+2026-08,Juniper Home,wholesale,2707,29
+2026-08,Stonepath Outfitters,wholesale,2279,25
+2026-08,Milltown Kitchen Supply,wholesale,2093,23
+2026-08,Wren & Ash,wholesale,2406,26
+2026-08,Bluff City Cook Shop,wholesale,2111,23
+2026-08,Old Post Provisions,wholesale,1798,20
+2026-08,Wholesale — other doors,wholesale,12955,141
+2026-08,DTC (aggregate),dtc,117034,791
+2026-08,Marketplace,marketplace,8680,62
+2026-09,Hearth & Hand Provisions (3 doors),wholesale,5253,57
+2026-09,Copper Birch Kitchen Co.,wholesale,4692,51
+2026-09,Northline Mercantile (2 doors),wholesale,3527,38
+2026-09,The Larder & Co.,wholesale,2876,31
+2026-09,Fogtown General,wholesale,3466,38
+2026-09,Camp & Pantry (4 doors),wholesale,4948,54
+2026-09,Juniper Home,wholesale,2097,23
+2026-09,Stonepath Outfitters,wholesale,2695,29
+2026-09,Milltown Kitchen Supply,wholesale,1883,20
+2026-09,Wren & Ash,wholesale,1735,19
+2026-09,Bluff City Cook Shop,wholesale,1686,18
+2026-09,Old Post Provisions,wholesale,1782,19
+2026-09,Wholesale — other doors,wholesale,15205,165
+2026-09,DTC (aggregate),dtc,124218,839
+2026-09,Marketplace,marketplace,10583,75
+2026-10,Hearth & Hand Provisions (3 doors),wholesale,5814,63
+2026-10,Copper Birch Kitchen Co.,wholesale,4666,51
+2026-10,Northline Mercantile (2 doors),wholesale,5534,60
+2026-10,The Larder & Co.,wholesale,3937,43
+2026-10,Fogtown General,wholesale,3763,41
+2026-10,Camp & Pantry (4 doors),wholesale,5947,65
+2026-10,Juniper Home,wholesale,3099,34
+2026-10,Stonepath Outfitters,wholesale,2730,30
+2026-10,Milltown Kitchen Supply,wholesale,2852,31
+2026-10,Wren & Ash,wholesale,2843,31
+2026-10,Bluff City Cook Shop,wholesale,2046,22
+2026-10,Old Post Provisions,wholesale,1665,18
+2026-10,Wholesale — other doors,wholesale,17990,196
+2026-10,DTC (aggregate),dtc,145108,980
+2026-10,Marketplace,marketplace,11489,81
+2026-11,Hearth & Hand Provisions (3 doors),wholesale,8856,96
+2026-11,Copper Birch Kitchen Co.,wholesale,8045,87
+2026-11,Northline Mercantile (2 doors),wholesale,5757,63
+2026-11,The Larder & Co.,wholesale,6679,73
+2026-11,Fogtown General,wholesale,4511,49
+2026-11,Camp & Pantry (4 doors),wholesale,8138,88
+2026-11,Juniper Home,wholesale,3499,38
+2026-11,Stonepath Outfitters,wholesale,3950,43
+2026-11,Milltown Kitchen Supply,wholesale,2870,31
+2026-11,Wren & Ash,wholesale,2805,30
+2026-11,Bluff City Cook Shop,wholesale,3467,38
+2026-11,Old Post Provisions,wholesale,2430,26
+2026-11,Wholesale — other doors,wholesale,26208,285
+2026-11,DTC (aggregate),dtc,221240,1495
+2026-11,Marketplace,marketplace,15443,110
+2026-12,Hearth & Hand Provisions (3 doors),wholesale,10420,113
+2026-12,Copper Birch Kitchen Co.,wholesale,8748,95
+2026-12,Northline Mercantile (2 doors),wholesale,7766,84
+2026-12,The Larder & Co.,wholesale,4700,51
+2026-12,Fogtown General,wholesale,4360,47
+2026-12,Camp & Pantry (4 doors),wholesale,6446,70
+2026-12,Juniper Home,wholesale,4358,47
+2026-12,Stonepath Outfitters,wholesale,3772,41
+2026-12,Milltown Kitchen Supply,wholesale,3312,36
+2026-12,Wren & Ash,wholesale,2931,32
+2026-12,Bluff City Cook Shop,wholesale,2704,29
+2026-12,Old Post Provisions,wholesale,2716,30
+2026-12,Wholesale — other doors,wholesale,25888,281
+2026-12,DTC (aggregate),dtc,233018,1574
+2026-12,Marketplace,marketplace,15691,111
+2027-01,Hearth & Hand Provisions (3 doors),wholesale,5349,58
+2027-01,Copper Birch Kitchen Co.,wholesale,3628,39
+2027-01,Northline Mercantile (2 doors),wholesale,3572,39
+2027-01,The Larder & Co.,wholesale,3320,36
+2027-01,Fogtown General,wholesale,2830,31
+2027-01,Camp & Pantry (4 doors),wholesale,4603,50
+2027-01,Juniper Home,wholesale,2387,26
+2027-01,Stonepath Outfitters,wholesale,2213,24
+2027-01,Milltown Kitchen Supply,wholesale,1612,18
+2027-01,Wren & Ash,wholesale,1652,18
+2027-01,Bluff City Cook Shop,wholesale,1799,20
+2027-01,Old Post Provisions,wholesale,1541,17
+2027-01,Wholesale — other doors,wholesale,10128,110
+2027-01,DTC (aggregate),dtc,97886,661
+2027-01,Marketplace,marketplace,8592,61
+2027-02,Hearth & Hand Provisions (3 doors),wholesale,4619,50
+2027-02,Copper Birch Kitchen Co.,wholesale,3769,41
+2027-02,Northline Mercantile (2 doors),wholesale,3171,34
+2027-02,The Larder & Co.,wholesale,2757,30
+2027-02,Fogtown General,wholesale,2577,28
+2027-02,Camp & Pantry (4 doors),wholesale,4285,47
+2027-02,Juniper Home,wholesale,2173,24
+2027-02,Stonepath Outfitters,wholesale,2253,24
+2027-02,Milltown Kitchen Supply,wholesale,1393,15
+2027-02,Wren & Ash,wholesale,1625,18
+2027-02,Bluff City Cook Shop,wholesale,1709,19
+2027-02,Old Post Provisions,wholesale,1326,14
+2027-02,Wholesale — other doors,wholesale,10798,117
+2027-02,DTC (aggregate),dtc,105255,711
+2027-02,Marketplace,marketplace,6973,49

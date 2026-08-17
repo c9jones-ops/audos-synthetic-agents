@@ -1,0 +1,265 @@
+month,person_id,name,title,fte,base_salary_annual,loaded_monthly_cost
+2024-08,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,66000,6270
+2024-08,C1,Katie Muscarella,CEO,1.0,102000,9690
+2024-08,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,70000,6650
+2024-08,O2,Dina Alvarez,Fulfillment Associate,1.0,44000,4180
+2024-08,M1,Priya Shah,Ecommerce Manager,1.0,78000,7410
+2024-08,X1,Renee Caldwell,Customer Experience Lead,1.0,51000,4845
+2024-09,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,66000,6270
+2024-09,C1,Katie Muscarella,CEO,1.0,102000,9690
+2024-09,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,70000,6650
+2024-09,O2,Dina Alvarez,Fulfillment Associate,1.0,44000,4180
+2024-09,M1,Priya Shah,Ecommerce Manager,1.0,78000,7410
+2024-09,X1,Renee Caldwell,Customer Experience Lead,1.0,51000,4845
+2024-10,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,66000,6270
+2024-10,C1,Katie Muscarella,CEO,1.0,102000,9690
+2024-10,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,70000,6650
+2024-10,O2,Dina Alvarez,Fulfillment Associate,1.0,44000,4180
+2024-10,M1,Priya Shah,Ecommerce Manager,1.0,78000,7410
+2024-10,X1,Renee Caldwell,Customer Experience Lead,1.0,51000,4845
+2024-10,Q1,Sofia Reyes,Production & QC Coordinator,1.0,57000,5415
+2024-11,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,66000,6270
+2024-11,C1,Katie Muscarella,CEO,1.0,102000,9690
+2024-11,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,70000,6650
+2024-11,O2,Dina Alvarez,Fulfillment Associate,1.0,44000,4180
+2024-11,M1,Priya Shah,Ecommerce Manager,1.0,78000,7410
+2024-11,X1,Renee Caldwell,Customer Experience Lead,1.0,51000,4845
+2024-11,Q1,Sofia Reyes,Production & QC Coordinator,1.0,57000,5415
+2024-12,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,66000,6270
+2024-12,C1,Katie Muscarella,CEO,1.0,102000,9690
+2024-12,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,70000,6650
+2024-12,O2,Dina Alvarez,Fulfillment Associate,1.0,44000,4180
+2024-12,M1,Priya Shah,Ecommerce Manager,1.0,78000,7410
+2024-12,X1,Renee Caldwell,Customer Experience Lead,1.0,51000,4845
+2024-12,Q1,Sofia Reyes,Production & QC Coordinator,1.0,57000,5415
+2025-01,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-01,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-01,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-01,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-01,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-01,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-01,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-02,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-02,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-02,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-02,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-02,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-02,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-02,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-02,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-03,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-03,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-03,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-03,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-03,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-03,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-03,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-03,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-03,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-04,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-04,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-04,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-04,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-04,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-04,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-04,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-04,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-04,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-05,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-05,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-05,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-05,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-05,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-05,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-05,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-05,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-05,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-06,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-06,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-06,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-06,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-06,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-06,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-06,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-06,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-06,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-07,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-07,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-07,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-07,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-07,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-07,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-07,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-07,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-07,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-08,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-08,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-08,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-08,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-08,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-08,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-08,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-08,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-08,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-09,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-09,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-09,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-09,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-09,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-09,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-09,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-09,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-09,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-10,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-10,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-10,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-10,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-10,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-10,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-10,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-10,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-10,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-11,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-11,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-11,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-11,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-11,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-11,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-11,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-11,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-11,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2025-12,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,68600,6517
+2025-12,C1,Katie Muscarella,CEO,1.0,106100,10079
+2025-12,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,72800,6916
+2025-12,O2,Dina Alvarez,Fulfillment Associate,1.0,45800,4351
+2025-12,M1,Priya Shah,Ecommerce Manager,1.0,81100,7704
+2025-12,M2,Jonah Kim,Content & Social Manager,1.0,60300,5728
+2025-12,X1,Renee Caldwell,Customer Experience Lead,1.0,53000,5035
+2025-12,W1,Tom Iverson,Wholesale Account Manager,1.0,66600,6327
+2025-12,Q1,Sofia Reyes,Production & QC Coordinator,1.0,59300,5634
+2026-01,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-01,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-01,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-01,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-01,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-01,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-01,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-01,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-01,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-02,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-02,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-02,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-02,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-02,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-02,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-02,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-02,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-02,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-03,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-03,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-03,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-03,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-03,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-03,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-03,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-03,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-03,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-04,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-04,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-04,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-04,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-04,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-04,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-04,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-04,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-04,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-05,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-05,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-05,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-05,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-05,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-05,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-05,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-05,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-05,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-06,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-06,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-06,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-06,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-06,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-06,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-06,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-06,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-06,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-07,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-07,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-07,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-07,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-07,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-07,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-07,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-07,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-07,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-08,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-08,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-08,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-08,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-08,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-08,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-08,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-08,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-08,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-09,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-09,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-09,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-09,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-09,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-09,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-09,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-09,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-09,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-10,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-10,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-10,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-10,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-10,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-10,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-10,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-10,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-10,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-11,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-11,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-11,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-11,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-11,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-11,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-11,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-11,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-11,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2026-12,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,71000,6745
+2026-12,C1,Katie Muscarella,CEO,1.0,109800,10431
+2026-12,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,75300,7153
+2026-12,O2,Dina Alvarez,Fulfillment Associate,1.0,47400,4503
+2026-12,M1,Priya Shah,Ecommerce Manager,1.0,83900,7970
+2026-12,M2,Jonah Kim,Content & Social Manager,1.0,62400,5928
+2026-12,X1,Renee Caldwell,Customer Experience Lead,1.0,54900,5216
+2026-12,W1,Tom Iverson,Wholesale Account Manager,1.0,68900,6546
+2026-12,Q1,Sofia Reyes,Production & QC Coordinator,1.0,61400,5833
+2027-01,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,73100,6944
+2027-01,C1,Katie Muscarella,CEO,1.0,113100,10744
+2027-01,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,77600,7372
+2027-01,O2,Dina Alvarez,Fulfillment Associate,1.0,48800,4636
+2027-01,M1,Priya Shah,Ecommerce Manager,1.0,86400,8208
+2027-01,M2,Jonah Kim,Content & Social Manager,1.0,64300,6108
+2027-01,X1,Renee Caldwell,Customer Experience Lead,1.0,56500,5367
+2027-01,W1,Tom Iverson,Wholesale Account Manager,1.0,71000,6745
+2027-01,Q1,Sofia Reyes,Production & QC Coordinator,1.0,63200,6004
+2027-02,F1,Stephen Muscarella,Co-founder / Product & Brand,1.0,73100,6944
+2027-02,C1,Katie Muscarella,CEO,1.0,113100,10744
+2027-02,O1,Marcus Webb,Ops & Fulfillment Lead,1.0,77600,7372
+2027-02,O2,Dina Alvarez,Fulfillment Associate,1.0,48800,4636
+2027-02,M1,Priya Shah,Ecommerce Manager,1.0,86400,8208
+2027-02,M2,Jonah Kim,Content & Social Manager,1.0,64300,6108
+2027-02,X1,Renee Caldwell,Customer Experience Lead,1.0,56500,5367
+2027-02,W1,Tom Iverson,Wholesale Account Manager,1.0,71000,6745
+2027-02,Q1,Sofia Reyes,Production & QC Coordinator,1.0,63200,6004

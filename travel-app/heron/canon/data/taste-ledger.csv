@@ -1,0 +1,40 @@
+id,place,city,area,category,price,verdict,visited,why,who_vetoes,in_catalog,verified
+L-01,Uchi,Austin,South Lamar,sushi restaurant,$$$,like,yes,"the place I name first when asked; genuinely good; loud-ish, so we do the early seating and Sam is fine",—,unknown,—
+L-02,Justine's Brasserie,Austin,East Austin,French brasserie,$$$,like,yes,"the moody late room I love the idea of; Sam wants to be gone by nine and usually is",—,unknown,—
+L-03,Suerte,Austin,East Cesar Chavez,Mexican restaurant,$$$,love,yes,"booked corner table, the suadero, both of us actually happy — a real one, not a story one",—,unknown,—
+L-04,Fonda San Miguel,Austin,Allandale,Mexican restaurant,$$$,love,yes,"Sam's pick; Sunday brunch, seated, unhurried, nobody standing; the truth about what we enjoy",—,unknown,—
+L-05,Birdie's,Austin,Cherrywood,wine bar and restaurant,$$,no,yes,"I love it and go with friends; the walk-up line and wait are exactly what Sam won't do",Sam,unknown,—
+L-06,Franklin Barbecue,Austin,East 11th,barbecue,$$,never,yes,"hours in a line; I did it once in 2013 before Sam; she laughs when it's suggested",Sam,unknown,—
+L-07,Small Victory,Austin,Downtown,cocktail bar,$$,fine,yes,"reservation-only and quiet, which is right; the parking-garage stairs are a knee tax so we go rarely",—,unknown,2026-08-17
+L-08,Odd Duck,Austin,South Lamar,restaurant,$$$,like,yes,"seated, book it, plates to share; a bit loud on weekends so we go on a Tuesday",—,unknown,—
+L-09,Camp Washington Chili,Cincinnati,Camp Washington,chili parlor,$,like,yes,"home; nobody in Austin gets it; Sam thinks it is funny and eats it anyway",—,unknown,—
+L-10,Bestia,Los Angeles,Arts District,Italian restaurant,$$$,no,yes,"went with colleagues in 2019 — loud, thrilling, I name it as a favourite; with Sam it would be twenty minutes and out",Sam,unknown,—
+L-11,Republique,Los Angeles,La Brea,restaurant,$$$,like,yes,"big room but daytime calm; a long weekday brunch was the good part",—,unknown,—
+L-12,Grand Central Market,Los Angeles,Downtown,food hall,$,fine,yes,"fun for me alone between sessions; standing and crowds — not a Sam place",Sam,unknown,—
+L-13,Zuni Café,San Francisco,Hayes Valley,restaurant,$$$,love,yes,"the 2023 evening that went right: 19:00 table, corner, roast chicken for two, ten minutes back to the hotel; the reference for everything",—,unknown,—
+L-14,Foreign Cinema,San Francisco,Mission,restaurant,$$$,like,yes,"courtyard, seated, a film on the wall; Sam liked it more than she said",—,unknown,—
+L-15,Tartine Bakery,San Francisco,Mission,bakery,$,no,yes,"stood in the queue alone at the 2018 conference; would never put Sam in it",Sam,unknown,—
+L-16,Swan Oyster Depot,San Francisco,Nob Hill,seafood counter,$$,never,no,"read about it for years; a line and stools — the exact shape Sam won't do; I still bring it up",Sam,unknown,—
+L-17,Brawn,London,Columbia Road,natural wine restaurant,$$$,like,no,"the kind of place I'd name to a friend; seated and bookable, so Sam would go; my only worry is a busy-night noise level, not the food",—,seen,—
+L-18,Rochelle Canteen,London,Shoreditch,restaurant,$$$,love,no,"a booked lunch in a quiet courtyard with no bar scene — Sam's kind of day, and secretly mine",—,seen,—
+L-19,The Marksman,London,Hackney,pub,$$,fine,no,"a pub-with-food I'd love the sound of; a busy pub floor is Sam's no, a booked upstairs table is fine — it depends which we get",—,seen,—
+L-20,Ronnie Scott's,London,Soho,jazz club,$$,no,no,"the anniversary night I would describe to friends; a loud room by design and a late show — Sam would last one set and go quiet",Sam,seen,—
+L-21,BRAT,London,Shoreditch,Basque grill,$$$,no,no,"the one on Marcus's screenshot; the food is exactly what I want; a hot, loud room and a wait for a table is exactly what Sam won't do",Sam,seen,—
+L-22,Noble Rot,London,Bloomsbury,wine restaurant,$$$,love,no,"BOOKED for 2026-08-27 19:00, six weeks ago; a wine list I can read for an hour, tables not stools; Sam approved it from photos",—,unknown,—
+L-23,St. JOHN,London,Smithfield,restaurant,$$$,love,no,"the plain white room, seated, booked; the one place where my reading and Sam's rules agree completely",—,unknown,—
+L-24,Quality Chop House,London,Farringdon,restaurant,$$$,like,no,"booked, seated, handsome tiled room; the bench seating is a knee question — Sam would ask for a chair",—,unknown,—
+L-25,Bocca di Lupo,London,Soho,Italian restaurant,$$$,like,no,"bookable, a table not the counter, Italian done straight — fine at 18:30, loud later",—,unknown,—
+L-26,Trullo,London,Highbury,Italian restaurant,$$$,like,no,"seated, booked, calm; far from Marylebone — a cab there and back, which Sam would rather than the tube",—,unknown,—
+L-27,Bar Termini,London,Soho,bar,$$,like,no,"tiny and seated; one negroni before dinner, not a long stay; Sam would allow twenty minutes",—,unknown,—
+L-28,Dishoom Covent Garden,London,Covent Garden,Indian restaurant,$$,never,no,"everyone tells me to go; the queue is the one thing Sam has said 'never' out loud about",Sam,unknown,—
+L-29,Padella,London,Borough,pasta restaurant,$$,no,no,"I'd queue for it alone in a heartbeat; the queue itself is the problem",Sam,unknown,—
+L-30,Sketch,London,Mayfair,restaurant and tea room,$$$$,never,no,"the pink room I would photograph; the bill and the scene — Sam's flinch, and mine if I'm honest",Sam,unknown,—
+L-31,The Ledbury,London,Notting Hill,fine dining,$$$$,never,no,"top of every list I open; roughly twice our ceiling; not this trip and I know it",Sam,unknown,—
+L-32,Kiln,London,Soho,Thai grill,$$,no,no,"counter stools, heat, a wait — my food, Sam's three no's at once",Sam,unknown,—
+L-33,Gordon's Wine Bar,London,Embankment,wine bar,$$,no,no,"candlelit and famous; standing, packed, steps down — Sam won't, and would be right",Sam,unknown,—
+L-34,Borough Market,London,Borough,market,$,never,no,"Saturday crowds and standing-up eating are the opposite of Sam's trip; I'll walk through alone if I get an hour",Sam,unknown,—
+L-35,The Wallace Collection,London,Marylebone,gallery,free,love,no,"ten minutes from the hotel, benches, a covered courtyard for a long lunch — Sam's ideal afternoon, and I'd take the pictures",—,unknown,—
+L-36,Daunt Books Marylebone,London,Marylebone,bookshop,free,love,no,"Sam is a librarian; this is the hour she will talk about for a year; the trip's real highlight, not a dinner",—,unknown,—
+L-37,Regent's Park,London,Regent's Park,park walk,free,like,no,"benches every hundred yards — the walk Sam can actually do, and near the hotel",—,unknown,—
+L-38,Ottolenghi Marylebone,London,Marylebone,café and deli,$$,fine,no,"near the hotel, communal tables; a good lunch with no story attached — I'd never name it, Sam would happily go",—,unknown,—
+L-39,Barbican Conservatory,London,Barbican,conservatory,free,like,no,"a sit-down glasshouse; I'd check which days it opens before promising Sam",—,unknown,—
